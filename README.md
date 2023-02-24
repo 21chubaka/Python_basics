@@ -8,3 +8,11 @@ The program wil then print out the variable.
 1_currency_exchange.py:
 Simple program to take one currency as a float and converts it to another currency as a float
 For this example will be using an amount in US Dollars to be converted into Canadian Dollars
+
+2_length_to_area.py:
+A program that takes a user's input of a length (float) and calculates and prints out:
+Area of a square
+Area of a circle (using given length as radius)
+Volume of a cube
+Volume of a sphere
+Volume of a cylinder (using given length as radius and side)
