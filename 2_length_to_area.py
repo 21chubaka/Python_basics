@@ -27,8 +27,8 @@ vol_cylin = math.pi * (radius ** 2) * height
 
 print('Length provided: ', user_length)
 print('------------------------------')
-print('Area of a Square: ', area_sq)
-print('Area of a Circle: ', area_cir)
+print('Area of a Square: ', round(area_sq, 2))
+print('Area of a Circle: ', round(area_cir, 2))
 print('Volume of a Cube: ', vol_cube)
 print('Volume of a Sphere: ', vol_sphere)
 print('Volume of a Cylinder: ', vol_cylin)
