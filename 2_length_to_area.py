@@ -9,7 +9,7 @@ Volume of a cylinder (using given length as radius and side)
 # Import math lib
 import math
 
-user_length = float(input('Enter a Length: '))
+user_length = float(input('Enter a Length as a non-negative number: '))
 
 radius = user_length / 2.0
 
@@ -25,10 +25,13 @@ vol_sphere = (4.0 / 3.0) * math.pi * (radius ** 3.0)
 
 vol_cylin = math.pi * (radius ** 2) * height
 
-print('Length provided: ', user_length)
-print('------------------------------')
-print('Area of a Square: ', str(round(area_sq, 2)))
-print('Area of a Circle: ', str(round(area_cir, 2)))
-print('Volume of a Cube: ', str(round(vol_cube, 2)))
-print('Volume of a Sphere: ', str(round(vol_sphere, 2)))
-print('Volume of a Cylinder: ', str(round(vol_cylin, 2)))
+if user_length >= 0:
+    print('Length provided: ', user_length)
+    print('------------------------------')
+    print('Area of a Square: ', str(round(area_sq, 2)))
+    print('Area of a Circle: ', str(round(area_cir, 2)))
+    print('Volume of a Cube: ', str(round(vol_cube, 2)))
+    print('Volume of a Sphere: ', str(round(vol_sphere, 2)))
+    print('Volume of a Cylinder: ', str(round(vol_cylin, 2)))
+else:
+    print('The Length you provide must be a non-negative number. Please try again.')
