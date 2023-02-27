@@ -10,7 +10,8 @@ Simple program to take one currency as a float and converts it to another curren
 For this example will be using an amount in US Dollars to be converted into Canadian Dollars
 
 2_length_to_area.py:
-A program that takes a user's input of a length (float) and calculates and prints out:
+A program that takes a user's input of a length (float) and checks if the length is an acceptable length (non-negative),
+then calculates and prints out:
 Area of a square
 Area of a circle (using given length as radius)
 Volume of a cube
