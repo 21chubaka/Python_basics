@@ -1,24 +1,24 @@
 # Python_basics
 Basic Python Skills
 
-0_hello.py:
+0_hello.py:<br>
 Simple program that a variable the concatenation of "Hello, " and "world".
 The program wil then print out the variable.
 
-1_currency_exchange.py:
+1_currency_exchange.py:<br>
 Simple program to take one currency as a float and converts it to another currency as a float
 For this example will be using an amount in US Dollars to be converted into Canadian Dollars
 
-2_length_to_area.py:
+2_length_to_area.py:<br>
 A program that takes a user's input of a length (float) and checks if the length is an acceptable length (non-negative),
-then calculates and prints out:
-Area of a square
-Area of a circle (using given length as radius)
-Volume of a cube
-Volume of a sphere
+then calculates and prints out:<br>
+Area of a square<br>
+Area of a circle (using given length as radius)<br>
+Volume of a cube<br>
+Volume of a sphere<br>
 Volume of a cylinder (using given length as radius and side)
 
-3_city_province.py:
+3_city_province.py:<br>
 A program that takes a user's input of a town/city from a small amount of town/cities from Ireland and
 return what Province the town/city is located in if there is a match.
 
