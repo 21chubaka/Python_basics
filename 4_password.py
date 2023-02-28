@@ -14,14 +14,18 @@ password = 'PythonRocks!'
 
 user_input = input('Please enter your password: ')
 
+# Checks if user input matches password
 if user_input == password:
     print('You have successfully logged in.')
 
+# Prompts user to enter correct password 3 times
 else:
     print('You have entered an incorrect password. Please enter your password three times.')
     first_user_inpt = input('Please enter your password: ')
     sec_user_inpt = input('Please enter your password: ')
     third_user_inpt = input('Please enter your password: ')
+
+    # Checks if three inputs match password
     if first_user_inpt == password and sec_user_inpt == password and third_user_inpt == password:
         print('You have successfully logged in.')
     else:
