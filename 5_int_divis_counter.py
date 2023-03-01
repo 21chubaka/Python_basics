@@ -12,7 +12,9 @@ integers divisble by 3 or 5 in the range of 1-10000 using the total variable.
 counter = 10000
 total = 0
 
+# While loop until counter is not 0
 while counter != 0:
+    # Checks if current integer if divisible by 3 or 5
     if counter % 3 == 0 or counter % 5 == 0:
         total += counter
         counter -= 1
