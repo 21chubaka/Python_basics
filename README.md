@@ -26,3 +26,6 @@ return what Province the town/city is located in if there is a match.
 A program that asks the user to enter a password and if it is correct that sends a succesful login message.  
 If incorrect sends an incorrect message, then ask the user to input the correct password three times.  
 If the user correct inputs the password it will be a succesful login, if not, access will be denied.
+
+5_int_divis_counter.py:<br>
+A program that sums the integers from 1-10,000, that are divisisble by 3 or 5. The program utilises a while loop.
