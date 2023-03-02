@@ -10,6 +10,7 @@ While user_input is greater or equal to zero.
 End while ends or breaks, print analysis statements
 '''
 
+# Program variables
 user_input = 0
 zero_count = 0
 zero_20 = 0
@@ -19,10 +20,15 @@ count_80 = 0
 count_100 = 0
 over_100 = 0
 
+# Program instructions to the user
 print('I will keep asking you for an integer number.  And tell you what range the number falls in.')
 print('If you enter a negative number the program will end.')
+
+# Checks if user input is a non-negative number
 while user_input >= 0:
+    # Prompts user for an integer
     user_input = int(input('Please enter a number: '))
+    # Check for various ranges of user input
     if user_input < 0:
         break
     if user_input == 0:
@@ -47,6 +53,7 @@ while user_input >= 0:
         over_100 += 1
         print(user_input, 'is greater than 100.')
 
+# Prints number of numbers in each range to the user
 print('Analysis:')
 print('Count of numbers equal to zero: ', zero_count)
 print('Count of numbers 0 < X <= 20: ', zero_20)
