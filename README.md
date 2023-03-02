@@ -29,3 +29,15 @@ If the user correct inputs the password it will be a succesful login, if not, ac
 
 5_int_divis_counter.py:<br>
 A program that sums the integers from 1-10,000, that are divisisble by 3 or 5. The program utilises a while loop.
+
+6_int_series_range_count.py:<br>
+A program that utilises a while loop to prompt the user to give a series of integers.  It checks is what range the number belongs:<br>
+Number equal to 0<br>
+Greater than 0 and less than or equal to 20<br>
+Greater than 20 and less than or equal to 40<br>
+Greater than 40 and less than or equal to 60<br>
+Greater than 60 and less than or equal to 80<br>
+Greater than 80 and less than or equal to 100<br>
+Greater than 100<br>
+The program will count the number of numbers that fall in each range.  The program is ended by the user entering a negative number.  
+When ended it returns the number of numbers in each range to the user.
