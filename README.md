@@ -45,4 +45,4 @@ When ended it returns the number of numbers in each range to the user.
 7_pizza_combos.py:<br>
 A program for the manager (user) of a pizza company, that will tell the manager the number of combinations of pizza toppings when
 given the number of toppings that day and the number of topping on the standard pizza that day.  The program will exit when complete
-or if the user gives a negative number.
+or if the user gives a negative number. Combinations are calculated using: n! / (k!(n - k)!)
