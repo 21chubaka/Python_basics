@@ -10,13 +10,16 @@ Else, negative number inform user
 Intialize variable combos and set to n_fac / (k_fac * n_k_fac)
 Return results to user
 '''
+# Prompt user for num of tops and num of tops on standard pizza
 num_top = int(input('Number of toppings today: '))
 stand_top = int(input('Number of toppings on Standard Pizza today: '))
 
+# Program variables
 n_fac = 1
 k_fac = 1
 n_k_fac = num_top - stand_top
 
+# Check if user inputs are non-negative and standard tops are at least as great as num of tops
 if num_top >= 0 and stand_top >= 0 and n_k_fac >= 0:
     for i in range(1, num_top + 1):
         n_fac = num_top * i
@@ -27,6 +30,8 @@ if num_top >= 0 and stand_top >= 0 and n_k_fac >= 0:
 else:
     print('That is a negative number. Please try again')
 
+# Calculate combos
 combos = n_fac / (k_fac * n_k_fac)
 
+# Return number of combos to user
 print('Number of combinations: ', combos)
