@@ -54,3 +54,7 @@ Pizza Combinations<br>
 A program for the manager (user) of a pizza company, that will tell the manager the number of combinations of pizza toppings when
 given the number of toppings that day and the number of topping on the standard pizza that day.  The program will exit when complete
 or if the user gives a negative number. Combinations are calculated using: n! / (k!(n - k)!)
+
+8_vowel_counter.py:<br>
+Vowel Counter<br>
+A program that counts the vowels in each string the user provides.  The program exits when given an empty string.
