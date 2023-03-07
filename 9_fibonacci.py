@@ -14,3 +14,23 @@ Else, if user_input equals one:
         Update b to c
         Increment count by one
 '''
+user_input = int(input('Please enter a positive integer: '))
+
+a = 0
+b = 1
+count = 2
+
+if user_input <= 0:
+    print("Enter a positive integer. Please try again.")
+else:
+    if user_input == 1:
+        print(a)
+    else:
+        print(a)
+        print(b)
+        while count < user_input:
+            c = a + b
+            print(c)
+            a = b
+            b = c
+            count += 1
