@@ -58,3 +58,7 @@ or if the user gives a negative number. Combinations are calculated using: n! / 
 8_vowel_counter.py:<br>
 Vowel Counter<br>
 A program that counts the vowels in each string the user provides.  The program exits when given an empty string.
+
+9_fibonacci.py:<br>
+Fibonacci Series<br>
+A program that prompts the user to provide an integer and utilises a while loop to calculate that number of terms of the Fibonacci Series.
