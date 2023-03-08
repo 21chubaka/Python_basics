@@ -62,3 +62,8 @@ A program that counts the vowels in each string the user provides.  The program 
 9_fibonacci.py:<br>
 Fibonacci Series<br>
 A program that prompts the user to provide an integer and utilises a while loop to calculate that number of terms of the Fibonacci Series.
+
+10_aprox_sq_root.py:<br>
+Aproximate Square Root<br>
+A program that prompts a user to provide a positive number and positive tolerance and uses a square root function to return the aproximate 
+square root to the user.
