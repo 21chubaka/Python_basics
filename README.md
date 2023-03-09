@@ -70,3 +70,5 @@ square root to the user.
 
 11_recur_fact.py:<br>
 Recursive Factorial<br>
+Prompts the user for a positive integer and uses a recursive function to calculate the factorial of that number and return case results of the 
+factorial as it works up to the user number.
