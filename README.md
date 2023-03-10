@@ -84,3 +84,17 @@ A program that a positive integer is given and recursively calculates its Factor
 
 14_nonRecur_Recur_timeResults.txt:<br>
 Results of time performance between Non-Recursive and Recursive Factorial programs with increasing inputs given.<br>
+
+--Example Results--<br>
+Time Elapsed:
+Input 5:
+Recursive: 0:00:01.084537
+Non-Recursive: 0:00:01.458487
+
+Input 666:
+Recursive: 0:00:03.551164
+Non-Recursive: 0:00:03.149220
+
+Input 2500:
+Recursive: RecursionError: maximum recursion depth exceeded in comparison
+Non-Recursive: 0:00:03.954985
