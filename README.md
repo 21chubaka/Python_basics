@@ -74,10 +74,13 @@ Prompts the user for a positive integer and uses a recursive function to calcula
 factorial as it works up to the user number.
 
 --Comparing Non-Recursive and Recursive Factorial Programs--<br>
-For the next two programs there will be time tracking elements in the program to compare the performances of a Non-Recursive and Recursive Factorial Program.<br>
+For the next two programs there will be time tracking elements in the program to compare the performances of a Non-Recursive and Recursive Factorial Program.  Results of increasing larger sized inputs recorded in text file and below.<br>
 
 12_nonRecur_fact.py:<br>
 A program that a positive integer is given and iteratively calculates its Factorial.  It also records the time it took to run and returns that time to the user.
 
 13_recur_fact_time.py:<br>
 A program that a positive integer is given and recursively calculates its Factorial.  It also records the time it took to run and returns that time to the user.
+
+14_nonRecur_Recur_timeResults.txt:<br>
+Results of time performance between Non-Recursive and Recursive Factorial programs with increasing inputs given.<br>
