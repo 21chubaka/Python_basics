@@ -1,0 +1,44 @@
+Time Elapsed:
+Input 5:
+Recursive: 0:00:01.084537
+Non-Recursive: 0:00:01.458487
+
+Input 86:
+Recursive: 0:00:02.975366
+Non-Recursive: 0:00:01.831186
+
+Input 250:
+Recursive: 0:00:02.126034
+Non-Recursive: 0:00:07.229407
+
+Input 666:
+Recursive: 0:00:03.551164
+Non-Recursive: 0:00:03.149220
+
+Input 1200:
+Recursive: RecursionError: maximum recursion depth exceeded in comparison
+Non-Recursive: 0:00:02.655179
+
+Input 2500:
+Recursive: RecursionError: maximum recursion depth exceeded in comparison
+Non-Recursive: 0:00:03.954985
+
+Input 10000:
+Recursive: RecursionError: maximum recursion depth exceeded in comparison
+Non-Recursive: 0:00:07.137322
+
+Input 100000:
+Recursive: RecursionError: maximum recursion depth exceeded in comparison
+Non-Recursive: 0:00:30.568033
+
+Input 250000:
+Recursive: RecursionError: maximum recursion depth exceeded in comparison
+Non-Recursive: 0:03:00.345460
+
+Input 750000:
+Recursive: RecursionError: maximum recursion depth exceeded in comparison
+Non-Recursive: 0:30:09.164534
+
+Input 1200000:
+Recursive: RecursionError: maximum recursion depth exceeded in comparison
+Non-Recursive: 1:20:52.758537
