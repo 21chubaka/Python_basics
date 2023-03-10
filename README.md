@@ -75,3 +75,6 @@ factorial as it works up to the user number.
 
 --Comparing Non-Recursive and Recursive Factorial Programs--<br>
 For the next two programs there will be time tracking elements in the program to compare the performances of a Non-Recursive and Recursive Factorial Program.<br>
+
+12_nonRecur_fact.py:<br>
+A program that a positive integer and iteratively calculates its Factorial.  It also records the time it took to run and returns that time to the user.
