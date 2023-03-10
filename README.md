@@ -86,15 +86,15 @@ A program that a positive integer is given and recursively calculates its Factor
 Results of time performance between Non-Recursive and Recursive Factorial programs with increasing inputs given.<br>
 
 --Example Results--<br>
-Time Elapsed:
-Input 5:
-Recursive: 0:00:01.084537
-Non-Recursive: 0:00:01.458487
+Time Elapsed:<br>
+Input 5:<br>
+Recursive: 0:00:01.084537<br>
+Non-Recursive: 0:00:01.458487<br>
 
-Input 666:
-Recursive: 0:00:03.551164
-Non-Recursive: 0:00:03.149220
+Input 666:<br>
+Recursive: 0:00:03.551164<br>
+Non-Recursive: 0:00:03.149220<br>
 
-Input 2500:
-Recursive: RecursionError: maximum recursion depth exceeded in comparison
-Non-Recursive: 0:00:03.954985
+Input 2500:<br>
+Recursive: RecursionError: maximum recursion depth exceeded in comparison<br>
+Non-Recursive: 0:00:03.954985<br>
