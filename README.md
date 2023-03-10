@@ -72,3 +72,6 @@ square root to the user.
 Recursive Factorial<br>
 Prompts the user for a positive integer and uses a recursive function to calculate the factorial of that number and return case results of the 
 factorial as it works up to the user number.
+
+--Comparing Non-Recursive and Recursive Factorial Programs--<br>
+For the next two programs there will be time tracking elements in the program to compare the performances of a Non-Recursive and Recursive Factorial Program.<br>
