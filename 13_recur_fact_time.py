@@ -21,3 +21,31 @@ Else, inform the user it is a negative number
 End timer
 Return time to user
 '''
+from timeit import default_timer as timer
+from datetime import timedelta
+
+start = timer()
+
+
+
+def factorial(num):
+    ''' Function that return the Factorial of its argument '''
+    if num == 0 or num == 1:
+        result = 1
+        #print('Base case - num:', num, 'result:', result)
+    else:
+        result = num * factorial(num - 1)
+        #print('num:', num, 'result:', result)
+
+    return result
+
+print('Provide a positive integer and I will tell you its factorial.')
+user_input = int(input('Provide a positive integer: '))
+
+if user_input >= 0:
+    print('The factorial of', user_input, 'is', factorial(user_input))
+else:
+    print('Number must be a positive integer. Please try again.')
+
+end = timer()
+print(timedelta(seconds=end-start))
