@@ -98,3 +98,7 @@ Non-Recursive: 0:00:03.149220<br>
 Input 2500:<br>
 Recursive: RecursionError: maximum recursion depth exceeded in comparison<br>
 Non-Recursive: 0:00:03.954985<br>
+
+15_recur_input_func.py:<br>
+A program using a recursive function that takes a single argument as an integer greater or equal to zero and prints
+out that number of terms from a function. A negative number ends the program.
