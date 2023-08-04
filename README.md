@@ -102,3 +102,6 @@ Non-Recursive: 0:00:03.954985<br>
 15_recur_input_func.py:<br>
 A program using a recursive function that takes a single argument as an integer greater or equal to zero and prints
 out that number of terms from a function. A negative number ends the program.
+
+16_common_divis_prog.py:<br>
+A program that takes two positive integers from a user and returns all common divisors of the two numbers and the sum of the common divisors.
