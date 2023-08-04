@@ -26,6 +26,7 @@ def findDivisors(num1, num2):
 
     return divisors
 
+# Prompt the user for two positive integers
 number1 = int(input('Enter a positive integer: '))
 number2 = int(input('Enter another positive integer: '))
 
