@@ -1,5 +1,5 @@
 '''
-P15P3 - Third Recursive Function program:
+Recursive Function program:
 Define a function:
     n == 0: 13
     n == 1: 8
