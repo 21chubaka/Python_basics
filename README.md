@@ -105,3 +105,7 @@ out that number of terms from a function. A negative number ends the program.
 
 16_common_divis_prog.py:<br>
 A program that takes two positive integers from a user and returns all common divisors of the two numbers and the sum of the common divisors.
+
+17_perfect_num.py:<br>
+A program that takes a positive integer from a user and returns all the perfect numbers up to and including the number given.  A perfect number
+is a positive integer that is equal to the sum of its proper factors.
