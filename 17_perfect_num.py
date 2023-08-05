@@ -17,3 +17,16 @@ Check if user input is less than or equal to zero:
     if so, inform the user
 Else, run the user input into the Perfect Num function
 '''
+
+def findPerfectNums(num):
+    ''' Finds the perfect numbers up to and including the argument
+
+    Assumes that num is a positive integer
+    Returns any perfect numbers '''
+    for i in range(1, num + 1):
+        total = 0
+        for j in range(1, i):
+            if i % j == 0:
+                total += j
+        if i == total:
+            print(i, 'is a perfect number.')
