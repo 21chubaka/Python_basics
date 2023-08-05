@@ -30,3 +30,11 @@ def findPerfectNums(num):
                 total += j
         if i == total:
             print(i, 'is a perfect number.')
+
+print('I will ask for a positive integer, and tell you all of the perfect numbers up to and including yor number.')
+user_input = int(input('Please provide a positive integer: '))
+
+if user_input <= 0:
+    print('Number must be greater than zero.')
+else:
+    print(findPerfectNums(user_input))
