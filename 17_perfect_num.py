@@ -36,7 +36,7 @@ print('I will ask for a positive integer, and tell you all of the perfect number
 user_input = int(input('Please provide a positive integer: '))
 
 # Check if user gave a positive integer and numeric
-if user_input <= 0:
+if user_input <= 0 and user_input.isnumeric():
     # Error message
     print('Number must be greater than zero.')
 else:
