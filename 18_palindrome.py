@@ -40,3 +40,15 @@ def isPal(s):
         result = s[0] == s[-1] and isPal(s[1:-1])
         print('About to return result', result, 'from isPal with argument', s)
         return result
+
+str = input('Enter a string (empty string to exit): ')
+
+while str != '':
+    if isPal(toChars(str)):
+        print(str, 'is a palindrome')
+    else:
+        print(str, 'is not a palindrome')
+
+    str = input('Enter a string (empty string to exit): ')
+
+print('Finished!')
