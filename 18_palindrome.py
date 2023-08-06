@@ -41,8 +41,10 @@ def isPal(s):
         print('About to return result', result, 'from isPal with argument', s)
         return result
 
+# Prompt the user for a string & inform that an empty string will eit program
 str = input('Enter a string (empty string to exit): ')
 
+# Loop to continue accepting string inputs, unless empty: then exit
 while str != '':
     if isPal(toChars(str)):
         print(str, 'is a palindrome')
