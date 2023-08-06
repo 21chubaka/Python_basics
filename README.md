@@ -109,3 +109,6 @@ A program that takes two positive integers from a user and returns all common di
 17_perfect_num.py:<br>
 A program that takes a positive integer from a user and returns all the perfect numbers up to and including the number given.  A perfect number
 is a positive integer that is equal to the sum of its proper factors.
+
+18_palindrome.py:<br>
+A program that takes a string from a user and returns if it is a palindrome.  The program exits with an empty string.
