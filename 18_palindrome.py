@@ -11,3 +11,15 @@ Prompts a user for a string
 While string is not empty, runs string into both functions
 If empty, program ends
 '''
+
+def toChars(s):
+    ''' Converts a string to lowercase & removes non-letters
+
+    Assumes s is a str
+    Converts uppercase letters to lowercase & removes non-letters '''
+    s = s.lower()
+    letterstring = ''
+    for c in s:
+        if c in 'abcdefghijklmnopqrstuvwxyz':
+            letterstring += c
+    return letterstring
