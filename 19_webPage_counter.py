@@ -26,3 +26,12 @@ if not os.path.isfile(filename):
 else:
     fh1 = open('gaa_index_source.txt', 'r')
     data = fh1.read()
+
+    fh1.close()
+    #print(data)
+    l_brack = data.count('<')
+    r_brack = data.count('>')
+    newline = data.count('\\n')
+    e = data.count('e')
+    s_comment = data.count('<!--')
+    e_comment = data.count('-->')
