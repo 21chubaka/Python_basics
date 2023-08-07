@@ -17,3 +17,12 @@ Else
         If not, create a results file and write the results to it
     Else, inform user results file already exists
 '''
+
+import os
+
+filename = 'gaa_index_source.txt'
+if not os.path.isfile(filename):
+    print('File' + filename + 'does not exist.')
+else:
+    fh1 = open('gaa_index_source.txt', 'r')
+    data = fh1.read()
