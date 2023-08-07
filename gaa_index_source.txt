@@ -1,0 +1,1995 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="homepage">
+<head prefix="og: http://ogp.me/ns#">
+
+    
+    
+
+
+
+
+<link as="style" href="/AppsDist/css/app-564521.css" rel="preload">
+<link as="script" href="/AppsDist/js/app-564521.js" rel="preload">
+
+
+<link as="script" href="/AppsDist/js/chunk-vendors-564521.js" rel="preload">
+<link href="/AppsDist/css/app-564521.css" rel="stylesheet">
+    
+
+
+            <!-- Google Tag Manager -->
+            <script type="application/javascript">
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-PND9ZNJ');</script>
+            <!-- End Google Tag Manager -->
+
+
+
+
+
+    
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GAA.ie - GAA Match Video and Highlights, Fixtures and Results, Latest News</title>
+
+<link href="/compiledassets/css/base.min.css?v=20211021050358&_t=a340f433ce0d8294ae65e1f8ac7a04c4" rel="stylesheet" type="text/css" />
+<link href="/content/gaa/modules/document-list.min.css?_t=4a240367725fa6e3cf5413f2cddf700b" rel="stylesheet" type="text/css" /><link href="/compiledassets/css/dynamic-banner.min.css?v=20211021050353&_t=c44a7974841d51b6a414e07be91f57ea" rel="stylesheet" type="text/css" /><link href="/compiledassets/css/news-reader.min.css?v=20211021050355&_t=039e22e98cec2ed26bea5eca7cfdc2d9" rel="stylesheet" type="text/css" /><link href="/content/gaa/modules/news-feature-plus-list.min.css?_t=44c4c92a75c74babe05509d7716c7edb" rel="stylesheet" type="text/css" />
+
+<meta name="title" content="GAA.ie - GAA Match Video and Highlights, Fixtures and Results, Latest News" />
+<meta name="keywords" />
+<meta name="description" content="Official site includes news, history, an introduction to the various sports and their rules, programs, structures, and events." />
+<meta name="date" />
+<meta name="isodate" />
+<meta name="thumb" />
+<meta name="summary" content="Official site includes news, history, an introduction to the various sports and their rules, programs, structures, and events." />
+<meta name="searchpagebasepath" />
+<meta property="og:type" />
+<meta property="og:title" content="GAA.ie - GAA Match Video and Highlights, Fixtures and Results, Latest News" />
+<meta property="og:url" content="https://www.gaa.ie/" />
+<meta property="og:image" />
+<meta property="og:image:width" content="1322px" />
+<meta property="og:image:height" content="744px" />
+<meta property="og:site_name" content="www.gaa.ie" />
+<meta property="og:description" content="Official site includes news, history, an introduction to the various sports and their rules, programs, structures, and events." />
+<meta property="twitter:title" content="GAA.ie - GAA Match Video and Highlights, Fixtures and Results, Latest News" />
+<meta property="twitter:url" content="/" />
+<meta property="twitter:image" />
+<meta property="twitter:image:width" content="1322px" />
+<meta property="twitter:image:height" content="744px" />
+<meta property="twitter:domain" content="www.gaa.ie" />
+<meta property="twitter:description" content="Official site includes news, history, an introduction to the various sports and their rules, programs, structures, and events." />
+<link rel="apple-touch-icon" sizes="57x57" href="/Favicon/apple-touch-icon-57x57.png?v=dLlMoE533A">
+<link rel="apple-touch-icon" sizes="60x60" href="/Favicon/apple-touch-icon-60x60.png?v=dLlMoE533A">
+<link rel="apple-touch-icon" sizes="72x72" href="/Favicon/apple-touch-icon-72x72.png?v=dLlMoE533A">
+<link rel="apple-touch-icon" sizes="76x76" href="/Favicon/apple-touch-icon-76x76.png?v=dLlMoE533A">
+<link rel="apple-touch-icon" sizes="114x114" href="/Favicon/apple-touch-icon-114x114.png?v=dLlMoE533A">
+<link rel="apple-touch-icon" sizes="120x120" href="/Favicon/apple-touch-icon-120x120.png?v=dLlMoE533A">
+<link rel="apple-touch-icon" sizes="144x144" href="/Favicon/apple-touch-icon-144x144.png?v=dLlMoE533A">
+<link rel="apple-touch-icon" sizes="152x152" href="/Favicon/apple-touch-icon-152x152.png?v=dLlMoE533A">
+<link rel="apple-touch-icon" sizes="180x180" href="/Favicon/apple-touch-icon-180x180.png?v=dLlMoE533A">
+<link rel="icon" type="image/png" href="/Favicon/Favicon-32x32.png?v=dLlMoE533A" sizes="32x32">
+<link rel="icon" type="image/png" href="/Favicon/Favicon-194x194.png?v=dLlMoE533A" sizes="194x194">
+<link rel="icon" type="image/png" href="/Favicon/Favicon-96x96.png?v=dLlMoE533A" sizes="96x96">
+<link rel="icon" type="image/png" href="/Favicon/android-chrome-192x192.png?v=dLlMoE533A" sizes="192x192">
+<link rel="icon" type="image/png" href="/Favicon/Favicon-16x16.png?v=dLlMoE533A" sizes="16x16">
+<link rel="manifest" href="/Favicon/manifest.json?v=dLlMoE533A">
+<link rel="shortcut icon" href="/Favicon/Favicon.ico?v=dLlMoE533A">
+<meta name="apple-mobile-web-app-title" content="GAA.ie">
+<meta name="application-name" content="GAA.ie">
+<meta name="msapplication-TileColor" content="#01567b">
+<meta name="msapplication-TileImage" content="/Favicon/mstile-144x144.png?v=dLlMoE533A">
+<meta name="msapplication-config" content="/Favicon/browserconfig.xml?v=dLlMoE533A">
+<meta name="theme-color" content="#ffffff">
+<script type="application/javascript">try { Typekit.load({ async: true }); } catch (e) { }</script>
+
+<script src="/compiledassets/js/core.min.js?v=20211021050358&_t=b1de9e347c34211983c57cec0173e352" type="application/javascript"></script><script src="/compiledassets/js/lazyload.min.js?v=20211021050358&_t=fdc3cc7fdf91125d1abfe36c1acf28a0" type="application/javascript"></script>
+
+</head>
+
+<body ng-app="gaa-app">
+
+   <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PND9ZNJ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="page-content">
+        <div id="gaa-vue-app">
+
+            <base-template v-cloak>
+
+                
+
+<menu-app>
+
+
+    <ul class="nav navbar-nav navbar-left">
+            <li class="mobile"><a href="/index">Home</a></li>
+            <li class="fandr"><a href="/fixtures-results/">Fixtures &amp; Results</a></li>
+            <li class="gaatv"><a href="/gaa-now/">GAA NOW</a></li>
+            <li class="tickets"><a href="https://am.ticketmaster.com/gaa/">Tickets</a></li>
+            <li class="news-archive"><a href="/news-archive/">News</a></li>
+            <li class="features"><a href="/features/">Features</a></li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+            <pill menuclass="pill"
+                  link="/the-gaa/"
+                  text="The GAA"
+                  :index="6">
+
+                <div class="mega-menu" id="the-gaa">
+                    <div class="row">
+
+                            <div class="mega-menu-column" id="column_38b4f3a1-a12e-44df-8499-b4439c309ea7">
+                                <div class="menu-links-container">
+                                    <a href="/the-gaa/about-the-gaa/" class="mega-menu-column-item-big-link"><h3>About the GAA</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/the-gaa/about-the-gaa/structures" class="mega-menu-column-item">Structures</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/about-the-gaa/uachtaran" class="mega-menu-column-item">Uachtar&#225;in</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/about-the-gaa/ard-stiurthoir" class="mega-menu-column-item">&#193;rd Sti&#250;rthoir</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/about-the-gaa/coiste-bainisti" class="mega-menu-column-item">Coiste Bainisti</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/partnerships/" class="mega-menu-column-item">Partnerships</a>
+                                            </li>
+                                            <li>
+                                                <a href="/downloads/" class="mega-menu-column-item">Downloads</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_78730533-280d-4b83-a50a-8f5105e5e0b9">
+                                <div class="menu-links-container">
+                                    <a href="/the-gaa/administration/" class="mega-menu-column-item-big-link"><h3>Administration</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/the-gaa/administration/organisational-structure" class="mega-menu-column-item">Organisational Structures</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/administration/employment-opportunities" class="mega-menu-column-item">Employment Opportunities</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/administration/strategic-plan" class="mega-menu-column-item">Strategic Plan</a>
+                                            </li>
+                                            <li>
+                                                <a href="/downloads/" class="mega-menu-column-item">Downloads</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_35233455-0ec7-4716-bc54-89d9946ef098">
+                                <div class="menu-links-container">
+                                    <a href="/the-gaa/provinces-counties-clubs/" class="mega-menu-column-item-big-link"><h3>Provinces, Counties &amp; Clubs</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/the-gaa/provinces-counties-clubs/provinces" class="mega-menu-column-item">Provinces</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/provinces-counties-clubs/counties" class="mega-menu-column-item">Counties</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_993628af-2979-4a50-9e2b-8a272aca54e1">
+                                <div class="menu-links-container">
+                                    <a href="/the-gaa/games/" class="mega-menu-column-item-big-link"><h3>Games</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/the-gaa/games/our-games" class="mega-menu-column-item">Our Games</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/games/football-review-committee" class="mega-menu-column-item">Football Review Committee</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/games/hurling-review-committee" class="mega-menu-column-item">Hurling Review Committee</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/games/national-games-development-centre" class="mega-menu-column-item">National Games Development Centre</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_e9fafa49-cf0b-41fd-af89-a455e7665d32">
+                                <div class="menu-links-container">
+                                    <a href="/the-gaa/rules-regulations/" class="mega-menu-column-item-big-link"><h3>Rules and Regulations</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/the-gaa/rules-regulations/gaa-discipline" class="mega-menu-column-item">GAA Discipline</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/rules-regulations/transfers-and-sanctions-information" class="mega-menu-column-item">Transfers and Sanctions</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/rules-regulations/the-mark" class="mega-menu-column-item">The Mark</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_5ccdf05e-1baa-422b-8e64-85b4f261e4b7">
+                                <div class="menu-links-container">
+                                    <a href="/the-gaa/history/" class="mega-menu-column-item-big-link"><h3>History</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/the-gaa/history/" class="mega-menu-column-item">Foundations of the GAA</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://www.gaa.ie/centenary/" class="mega-menu-column-item">GAA Centenary Archive</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/history/gaelic-sunday/" class="mega-menu-column-item">Gaelic Sunday</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/history/1884-1945" class="mega-menu-column-item">Timeline 1884-1945</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/history/1945-2015" class="mega-menu-column-item">Timeline 1945-2015</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/history/gaa-presidents" class="mega-menu-column-item">GAA Presidents</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/history/general-secretaries" class="mega-menu-column-item">General Secretaries</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://crokepark.ie/summerschool" class="mega-menu-column-item">Summer School</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/oral-history/" class="mega-menu-column-item">Oral History Project</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_0b45fb51-a1f4-4c17-b5a3-8dc2fb6094c9">
+                                <div class="menu-links-container">
+                                    <a href="/the-gaa/child-welfare-and-protection/" class="mega-menu-column-item-big-link"><h3>Child Welfare &amp; Protection</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/the-gaa/child-welfare-and-protection/code-of-behaviour" class="mega-menu-column-item">Code of Behaviour</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/child-welfare-and-protection/allegations-of-abuse" class="mega-menu-column-item">Allegations of Abuse</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/child-welfare-and-protection/child-welfare-trainers" class="mega-menu-column-item">Child Welfare Trainers</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/child-welfare-and-protection/vetting" class="mega-menu-column-item">Vetting</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/child-welfare-and-protection/welfare-audit" class="mega-menu-column-item">Welfare Audit</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/child-welfare-and-protection/contacting-underage-players" class="mega-menu-column-item">Underage Players</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/child-welfare-and-protection/tackling-bullying" class="mega-menu-column-item">Tackling Bullying</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_df022cba-e7f7-4e0d-b191-4f2ade8220f0">
+                                <div class="menu-links-container">
+                                    <a href="/the-gaa/cultur-agus-gaeilge/" class="mega-menu-column-item-big-link"><h3>Cult&#250;r Agus Gaeilge</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/the-gaa/cultur-agus-gaeilge/scor" class="mega-menu-column-item">Sc&#243;r</a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-gaa/cultur-agus-gaeilge/cultur-agus-gaeilge" class="mega-menu-column-item">Gaeilge</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+
+            </pill>
+            <pill menuclass="pill"
+                  link="/my-gaa/"
+                  text="My GAA"
+                  :index="7">
+
+                <div class="mega-menu" id="my-gaa">
+                    <div class="row">
+
+                            <div class="mega-menu-column" id="column_90546d2c-dc5d-464f-9003-1116a1d57763">
+                                <div class="menu-links-container">
+                                    <a href="/my-gaa/getting-involved/" class="mega-menu-column-item-big-link"><h3>Getting Involved</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/my-gaa/getting-involved/gaelic-football" class="mega-menu-column-item">Gaelic Football</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/getting-involved/hurling-history-and-evolution" class="mega-menu-column-item">Hurling</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/getting-involved/ladies-gaelic-football" class="mega-menu-column-item">Other Gaelic Games</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/getting-involved/club" class="mega-menu-column-item">The Club</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/getting-involved/feile-na-ngael" class="mega-menu-column-item">F&#233;ile</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/getting-involved/primary-schools" class="mega-menu-column-item">Schools</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.kelloggsculcamps.gaa.ie/" class="mega-menu-column-item">Cul Camps</a>
+                                            </li>
+                                            <li>
+                                                <a href="/highereducation/" class="mega-menu-column-item">Programmes</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_e43fe063-e2a2-4c44-9e76-2350c82e6ce4">
+                                <div class="menu-links-container">
+                                    <a href="/my-gaa/players/" class="mega-menu-column-item-big-link"><h3>Players</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/the-gaa/rules-regulations/transfers-and-sanctions" class="mega-menu-column-item">Transfers/Sanctions</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/players/anti-doping" class="mega-menu-column-item">Anti-Doping</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/players/managing-injuries" class="mega-menu-column-item">Managing Injuries</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/players/fitness-and-nutrition" class="mega-menu-column-item">Fitness and Nutrition</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/players/player-safety" class="mega-menu-column-item">Player Safety</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.gaelicplayers.com/" class="mega-menu-column-item">GPA</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_a77504de-bd3a-48fb-b8e0-5b7a9c955f53">
+                                <div class="menu-links-container">
+                                    <a href="/my-gaa/coaches/" class="mega-menu-column-item-big-link"><h3>Coaches</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/my-gaa/coaches/becoming-a-coach" class="mega-menu-column-item">Becoming a Coach</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://learning.gaa.ie/coach" class="mega-menu-column-item">eLearning for Coaches</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://learning.gaa.ie/coach10" class="mega-menu-column-item">Coach 10 Model</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://learning.gaa.ie/planner/" class="mega-menu-column-item">Activity Planner</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/coaches/ngdc" class="mega-menu-column-item">NGDC</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_77ebf87e-d0f1-4af2-b0cc-8f03b7bef711">
+                                <div class="menu-links-container">
+                                    <a href="/my-gaa/match-officials/" class="mega-menu-column-item-big-link"><h3>Match Officials</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/my-gaa/match-officials/become-a-match-official" class="mega-menu-column-item">Become a Match Official</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/match-officials/linesmen" class="mega-menu-column-item">Linesmen</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/match-officials/referee" class="mega-menu-column-item">Referee</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/match-officials/sideline-officials" class="mega-menu-column-item">Sideline Officials</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/match-officials/umpires" class="mega-menu-column-item">Umpires</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_18ef4b80-9d81-4acc-a034-4c80ec272124">
+                                <div class="menu-links-container">
+                                    <a href="/my-gaa/administrators/" class="mega-menu-column-item-big-link"><h3>Administrators</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/my-gaa/administrators/chairperson" class="mega-menu-column-item">Club Officers</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/administrators/games-development-personnel" class="mega-menu-column-item">Games Development</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/administrators/volunteer-recruitment" class="mega-menu-column-item">Club Planning</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/administrators/club-resources" class="mega-menu-column-item">Club Resources</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/administrators/data-protection" class="mega-menu-column-item">Data Protection</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/administrators/membership-registration" class="mega-menu-column-item">Membership &amp; Registration</a>
+                                            </li>
+                                            <li>
+                                                <a href="/downloads/" class="mega-menu-column-item">Downloads</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_711d0ca5-d2b1-4db1-9136-1834484afbef">
+                                <div class="menu-links-container">
+                                    <a href="http://learning.gaa.ie/" class="mega-menu-column-item-big-link"><h3>E-Learning</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="http://learning.gaa.ie/" class="mega-menu-column-item">Home/Club</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://learning.gaa.ie/coach" class="mega-menu-column-item">Coach</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://learning.gaa.ie/referee" class="mega-menu-column-item">Referee</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://learning.gaa.ie/administrator" class="mega-menu-column-item">Administrator</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://learning.gaa.ie/player" class="mega-menu-column-item">Player</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://learning.gaa.ie/primary-school" class="mega-menu-column-item">Primary School</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://learning.gaa.ie/post-primary-school" class="mega-menu-column-item">Post-Primary</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://learning.gaa.ie/third-level" class="mega-menu-column-item">Higher Education</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_f22c0a08-5a97-4ef8-9b8a-9d6b2e23038b">
+                                <div class="menu-links-container">
+                                    <a href="/my-gaa/community-and-health/" class="mega-menu-column-item-big-link"><h3>Community &amp; Health</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/my-gaa/community-and-health/gambling-alcohol-drug-education/" class="mega-menu-column-item">Gambling, Alcohol &amp; Drug Education</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/community-and-health/mental-fitness/" class="mega-menu-column-item">Mental Fitness</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/community-and-health/community-development/" class="mega-menu-column-item">Community Development</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/community-and-health/healthy-eating/" class="mega-menu-column-item">Healthy Eating</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/community-and-health/physical-activity/" class="mega-menu-column-item">Physical Activity</a>
+                                            </li>
+                                            <li>
+                                                <a href="/my-gaa/community-and-health/training-personal-development/" class="mega-menu-column-item">Training &amp; Personal Development</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="mega-menu-column" id="column_c07046e7-80ed-4335-b372-db5c95d03305">
+                                <div class="menu-links-container">
+                                    <a href="/my-gaa/world-gaa/" class="mega-menu-column-item-big-link"><h3>World GAA</h3></a>
+                                    <ul>
+                                            <li>
+                                                <a href="/my-gaa/world-gaa/event-dates/" class="mega-menu-column-item">Event Dates</a>
+                                            </li>
+                                            <li>
+                                                <a href="/worldgames/" class="mega-menu-column-item">GAA World Games</a>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+
+            </pill>
+    </ul>
+
+    <template v-slot:header-social>
+        <div class="container-fluid header-social">
+            <div class="row row-bleed">
+                <div class="welcome">Fáilte chuig gaa.ie - suíomh oifigiúil CLG</div>
+                <div class="search">
+                    <search-app></search-app>
+                </div>
+                <a class="facebook" href="https://www.facebook.com/officialgaa" target="_blank">
+                    <span class="fa fa-facebook"></span>
+                </a>
+                <a class="twitter" href="https://www.twitter.com/officialgaa" target="_blank">
+                    <span class="fa fa-twitter"></span>
+                </a>
+            </div>
+        </div>
+    </template>
+
+</menu-app>
+
+
+                
+                
+
+
+
+
+
+
+
+
+
+<div class="container-fluid menu-trending" id="accordion" role="tablist" aria-multiselectable="true">
+    <div class="row row-bleed">
+        <nav class="navbar-secondary">
+
+            <div class="col-md-2 navbar-secondary__title">
+                <h1 class="h4">Popular</h1>
+            </div>
+
+            <ul class="nav navbar-nav navbar-left nav-mobile" style="">
+                    <li class="trending-menu-item" style="flex: 0 0 auto;"><a href="https://www.gaa.ie/news/spectators/">Spectators</a></li>
+                    <li class="trending-menu-item" style="flex: 0 0 auto;"><a href="https://www.gaa.ie/news/gaa-announce-revised-master-fixtures-calendar-for-2021/">2021 Fixtures</a></li>
+                    <li class="trending-menu-item" style="flex: 0 0 auto;"><a href="http://returntoplay.gaa.ie/">Return to Play</a></li>
+                    <li class="trending-menu-item" style="flex: 0 0 auto;"><a href="/clubs/">Club Dash</a></li>
+            </ul>
+
+
+        </nav>
+    </div>
+
+</div>
+
+
+
+<div id="gaa-banners">
+    <div class="container">
+        <div class="row">
+                <a href="/live-updates/september-10-test/"><div class="gaa-now-banner">Live updates and GAA Now in-game clips</div></a>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+    <div class="newsreader" v-pre>
+        <div class="slider-wrap">
+            <div class="row">
+                <div class="col-md-12">
+                    <div id="edc28218-9616-4f81-838d-27af81ac8f2e" class="slider slider-edc28218-9616-4f81-838d-27af81ac8f2e sliderSingle" data-moveby="102" style="">
+                        <div class="outer">
+                            <div class="tray">
+                                    <section id="slide1" style="left: -102%;">
+                                        <div class="row slide-container">
+                                            <!-- HIDDEN BIG PIC LINK UNTIL SMALL -->
+                                            <div class="col-sm-8 slider-single-sml-link">
+                                                <div class="row no-gutters">
+                                                        <article class="col-sm-12 feature">
+        <a href="/news/club-championships-round-up-x7937/" target="">
+            <figure><picture>
+<source data-srcset="" media="(min-width: 1200px)">
+<source data-srcset="" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_750,h_422,c_fill,g_auto,q_auto/mkxdwda6euyj0njnjg6m.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_540,h_304,c_fill,g_auto,q_auto/mkxdwda6euyj0njnjg6m.jpg" alt="Club championships round-up">
+</picture>
+</figure>
+
+            <header>
+                <span class="sub-title "></span>
+                <h1>Club championships round-up</h1>
+            </header>
+        </a>
+    </article>
+
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <div class="row">
+                                                    <div class="col-sm-4  slider-single-desk-link">
+                                                        <article class="nr-small">
+                                                                <a href="/news/club-championships-round-up-x7937/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/mkxdwda6euyj0njnjg6m.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/mkxdwda6euyj0njnjg6m.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/mkxdwda6euyj0njnjg6m.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/mkxdwda6euyj0njnjg6m.jpg" alt="Club championships round-up">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title "></span>
+            <h1>Club championships round-up</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <article class="nr-small">
+                                                                <a href="/football/news/ballinamore-end-famine-to-win-leitrim-sfc/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/eflbwno4tklwy82ljli2.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/eflbwno4tklwy82ljli2.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/eflbwno4tklwy82ljli2.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/eflbwno4tklwy82ljli2.jpg" alt="Ballinamore end famine to win Leitrim SFC">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title football">Football</span>
+            <h1>Ballinamore end famine to win Leitrim SFC</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 ">
+                                                        <article class="nr-small">
+                                                            <a href="/news-archive/">
+                                                                <img sizes="(min-width: 768px) 35vw,(min-width: 992px) 35vw, 35vw" srcset="https://www.gaa.ie/images/promos/single_promo.jpg 320w,https://www.gaa.ie/images/promos/single_promo.jpg 750w,https://www.gaa.ie/images/promos/single_promo.jpg 1322w," alt="See News Archive here!">
+                                                                <header>
+                                                                    <span class="sub-title newsreader-promo-single">More News</span>
+                                                                    <h1>Click here for more news</h1>
+                                                                </header>
+                                                            </a>
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 hidden-xs">
+                                                        <article class="nr-small">
+                                                                <a href="/football/news/football-obsessive-shane-walsh-still-hungry-for-knowledge/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" alt="Football obsessive Shane Walsh still hungry for knowledge">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title feature">Feature</span>
+            <h1>Football obsessive Shane Walsh still hungry for knowledge</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 slider-single-sml-link">
+                                                        <article class="nr-small">
+                                                                <a href="/hurling/news/cian-lynch-reminded-of-feile-glory-days-on-county-final-weekend/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" alt="Cian Lynch reminded of Féile glory days on County Final weekend">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title feature">Feature</span>
+            <h1>Cian Lynch reminded of F&#233;ile glory days on County Final weekend</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 visible-xs">
+                                                        <article class="nr-small">
+                                                            <a href="/news-archive/">
+                                                                <img sizes="(min-width: 768px) 35vw,(min-width: 992px) 35vw, 35vw" srcset="https://www.gaa.ie/images/promos/single_promo.jpg 320w,https://www.gaa.ie/images/promos/single_promo.jpg 750w,https://www.gaa.ie/images/promos/single_promo.jpg 1322w," alt="See News Archive here!">
+                                                                <header>
+                                                                    <span class="sub-title newsreader-promo-single">More News</span>
+                                                                    <h1>Click here for more news</h1>
+                                                                </header>
+                                                            </a>
+                                                        </article>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
+                                                                    <section id="slide2" style="left: 0%;" class="current">
+                                        <div class="row slide-container">
+                                            <!-- HIDDEN BIG PIC LINK UNTIL SMALL -->
+                                            <div class="col-sm-8 slider-single-sml-link">
+                                                <div class="row no-gutters">
+                                                        <article class="col-sm-12 feature">
+        <a href="/news/pairc-tailteann-crowned-gaa-county-grounds-pitch-of-the-year/" target="">
+            <figure><picture>
+<source data-srcset="" media="(min-width: 1200px)">
+<source data-srcset="" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_750,h_422,c_fill,g_auto,q_auto/zk5bkoxpikop1d6va6bo.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_540,h_304,c_fill,g_auto,q_auto/zk5bkoxpikop1d6va6bo.jpg" alt="Páirc Tailteann crowned GAA County Grounds Pitch of the Year">
+</picture>
+</figure>
+
+            <header>
+                <span class="sub-title "></span>
+                <h1>P&#225;irc Tailteann crowned GAA County Grounds Pitch of the Year</h1>
+            </header>
+        </a>
+    </article>
+
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <div class="row">
+                                                    <div class="col-sm-4 ">
+                                                        <article class="nr-small">
+                                                                <a href="/news/pairc-tailteann-crowned-gaa-county-grounds-pitch-of-the-year/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/zk5bkoxpikop1d6va6bo.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/zk5bkoxpikop1d6va6bo.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/zk5bkoxpikop1d6va6bo.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/zk5bkoxpikop1d6va6bo.jpg" alt="Páirc Tailteann crowned GAA County Grounds Pitch of the Year">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title "></span>
+            <h1>P&#225;irc Tailteann crowned GAA County Grounds Pitch of the Year</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <article class="nr-small">
+                                                                <a href="/hurling/news/feile-memories-still-burn-bright-for-john-sheedy-50-years-on/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/v1634814884/erqtvrfmf5vmx5gz84za.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/v1634814884/erqtvrfmf5vmx5gz84za.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/v1634814884/erqtvrfmf5vmx5gz84za.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/v1634814884/erqtvrfmf5vmx5gz84za.jpg" alt="Féile memories still burn bright for John Sheedy 50 years on">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title feature">Feature</span>
+            <h1>F&#233;ile memories still burn bright for John Sheedy 50 years on</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <article class="nr-small">
+                                                                <a href="/news/gge-european-youth-championships-a-heart-warming-success/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/yhvhhyoejfmqukgil5cj.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/yhvhhyoejfmqukgil5cj.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/yhvhhyoejfmqukgil5cj.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/yhvhhyoejfmqukgil5cj.jpg" alt="GGE European Youth Championships a heart-warming success">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title feature">Feature</span>
+            <h1>GGE European Youth Championships a heart-warming success</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 slider-single-sml-link">
+                                                        <article class="nr-small">
+                                                                <a href="/football/news/football-obsessive-shane-walsh-still-hungry-for-knowledge/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" alt="Football obsessive Shane Walsh still hungry for knowledge">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title feature">Feature</span>
+            <h1>Football obsessive Shane Walsh still hungry for knowledge</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 slider-single-sml-link">
+                                                        <article class="nr-small">
+                                                                <a href="/hurling/news/cian-lynch-reminded-of-feile-glory-days-on-county-final-weekend/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" alt="Cian Lynch reminded of Féile glory days on County Final weekend">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title feature">Feature</span>
+            <h1>Cian Lynch reminded of F&#233;ile glory days on County Final weekend</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 visible-xs">
+                                                        <article class="nr-small">
+                                                            <a href="/news-archive/">
+                                                                <img sizes="(min-width: 768px) 35vw,(min-width: 992px) 35vw, 35vw" srcset="https://www.gaa.ie/images/promos/single_promo.jpg 320w,https://www.gaa.ie/images/promos/single_promo.jpg 750w,https://www.gaa.ie/images/promos/single_promo.jpg 1322w," alt="See News Archive here!">
+                                                                <header>
+                                                                    <span class="sub-title newsreader-promo-single">More News</span>
+                                                                    <h1>Click here for more news</h1>
+                                                                </header>
+                                                            </a>
+                                                        </article>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
+                                                                    <section id="slide3" style="left: 102%;">
+                                        <div class="row slide-container">
+                                            <!-- HIDDEN BIG PIC LINK UNTIL SMALL -->
+                                            <div class="col-sm-8 slider-single-sml-link">
+                                                <div class="row no-gutters">
+                                                        <article class="col-sm-12 feature">
+        <a href="/football/news/football-obsessive-shane-walsh-still-hungry-for-knowledge/" target="">
+            <figure><picture>
+<source data-srcset="" media="(min-width: 1200px)">
+<source data-srcset="" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_750,h_422,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_540,h_304,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" alt="Football obsessive Shane Walsh still hungry for knowledge">
+</picture>
+</figure>
+
+            <header>
+                <span class="sub-title feature">Feature</span>
+                <h1>Football obsessive Shane Walsh still hungry for knowledge</h1>
+            </header>
+        </a>
+    </article>
+
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <div class="row">
+                                                    <div class="col-sm-4  slider-single-desk-link">
+                                                        <article class="nr-small">
+                                                                <a href="/football/news/football-obsessive-shane-walsh-still-hungry-for-knowledge/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" alt="Football obsessive Shane Walsh still hungry for knowledge">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title feature">Feature</span>
+            <h1>Football obsessive Shane Walsh still hungry for knowledge</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <article class="nr-small">
+                                                                <a href="/hurling/news/cian-lynch-reminded-of-feile-glory-days-on-county-final-weekend/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" alt="Cian Lynch reminded of Féile glory days on County Final weekend">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title feature">Feature</span>
+            <h1>Cian Lynch reminded of F&#233;ile glory days on County Final weekend</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <article class="nr-small">
+                                                                <a href="/news/john-west-feile-brings-u-15-club-teams-to-play-in-croke-park-and-thurles/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/v1634720475/jf2yow0nfkflwlpvrtbq.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/v1634720475/jf2yow0nfkflwlpvrtbq.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/v1634720475/jf2yow0nfkflwlpvrtbq.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/v1634720475/jf2yow0nfkflwlpvrtbq.jpg" alt="John West Féile brings U-15 club teams to play in Croke Park and Thurles">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title "></span>
+            <h1>John West F&#233;ile brings U-15 club teams to play in Croke Park and Thurles</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <article class="nr-small">
+                                                                <a href="/news/club-championships-round-up-x7937/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/mkxdwda6euyj0njnjg6m.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/mkxdwda6euyj0njnjg6m.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/mkxdwda6euyj0njnjg6m.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/mkxdwda6euyj0njnjg6m.jpg" alt="Club championships round-up">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title "></span>
+            <h1>Club championships round-up</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 slider-single-sml-link">
+                                                        <article class="nr-small">
+                                                                <a href="/football/news/ballinamore-end-famine-to-win-leitrim-sfc/" target="">
+        <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/eflbwno4tklwy82ljli2.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/eflbwno4tklwy82ljli2.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/eflbwno4tklwy82ljli2.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/eflbwno4tklwy82ljli2.jpg" alt="Ballinamore end famine to win Leitrim SFC">
+</picture>
+</figure>
+
+        <header>
+            <span class="sub-title football">Football</span>
+            <h1>Ballinamore end famine to win Leitrim SFC</h1>
+        </header>
+    </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 visible-xs">
+                                                        <article class="nr-small">
+                                                            <a href="/news-archive/">
+                                                                <img sizes="(min-width: 768px) 35vw,(min-width: 992px) 35vw, 35vw" srcset="https://www.gaa.ie/images/promos/single_promo.jpg 320w,https://www.gaa.ie/images/promos/single_promo.jpg 750w,https://www.gaa.ie/images/promos/single_promo.jpg 1322w," alt="See News Archive here!">
+                                                                <header>
+                                                                    <span class="sub-title newsreader-promo-single">More News</span>
+                                                                    <h1>Click here for more news</h1>
+                                                                </header>
+                                                            </a>
+                                                        </article>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
+                            </div>
+                        </div>
+                            <div class="edc28218-9616-4f81-838d-27af81ac8f2e mask left">
+                                <a class="arrow left">
+                                    <span class="fa fa-angle-double-left"></span>
+                                </a>
+                            </div>
+                            <div class="edc28218-9616-4f81-838d-27af81ac8f2e mask right">
+                                <a class="arrow right"><span class="fa fa-angle-double-right"></span></a>
+                            </div>
+                    </div>
+                    <nav class="slider-nav">
+                        <ul>
+                                <li><a href="#slide1">Slide 3</a></li>
+                                <li class="current"><a href="#slide2">Slide 1</a></li>
+                                <li><a href="#slide3">Slide 2</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script type="application/javascript">
+        function createInLinePlayer(mediaType, videoId, seotitle, heroImage){
+            if(mediaType === "video"){
+                createYoutubePlayer(videoId);
+            }
+            else{
+                createDivaPlayer(videoId, seotitle, heroImage);
+            }
+        }
+
+        function createYoutubePlayer(videoId){
+            $('#video-player-container').hide();
+            $('#video-player-container').html('<iframe style="width: 1024px; height: 576px" class="embed-responsive-item" src="https://www.youtube.com/embed/'+ videoId + '?modestbranding=1&amp;version=3&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>');
+            $('#video-player-container').show();
+        }
+
+        function createDivaPlayer(videoId, seotitle, heroImage){
+            $('#video-player-container').hide();
+
+            var postData = {
+                autoplay: false,
+                videoId: videoId,
+                useClosedCaption: false,
+                useHTML: true,
+                playerPath: window.__env.divaPlayerUrl,
+                settingsPath: window.__env.divaSettingsFile
+            };
+
+            $.support.cors = true;
+            $.ajax({
+                type: 'POST',
+                url: window.__env.divaTokenizationUrl,
+                data: JSON.stringify(postData),
+                crossDomain: true,
+                dataType: 'json',
+                cache: false,
+                async: false,
+                headers: { "Content-Type": "application/json" },
+                success: function (result) {
+                    $('#video-player-container').html(result);
+                    $('#divaIFrame').width(1024).height(576);
+                    $('#video-player-container').show();
+                    //resize();
+                },
+                error: function (result) {
+                    return false;
+                }
+            });
+
+            window.addEventListener('resize', function () {
+                resize();
+            });
+
+            function resize() {
+                var iframe = document.getElementById('divaIFrame');
+                var videoContainer = document.getElementById('videoContainer');
+
+                var h = 0;
+                var w = 0;
+
+                if (window.innerWidth > 768) {
+                    h = window.innerHeight * 80 / 100;//videoContainer.clientHeight;
+                    w = window.innerWidth * 80 / 100; //videoContainer.clientWidth - 50;
+
+                } else {
+                    h = window.innerHeight;
+                    w = window.innerWidth;
+                }
+
+                var dh = Math.round(w * 9 / 16);
+                var dw = Math.round(16 * h / 9);
+
+                if (dw > w)
+                    dw = w;
+                if (dh > h)
+                    dh = h;
+
+                dw = dw - (dw % 16);
+                dh = dh - (dh % 9);
+
+                iframe.style.height = '100%' // dh + 'px';
+                iframe.style.width = '100%' //dw + 'px';
+            }
+        }
+    </script>
+    <div class="newsreader" v-pre>
+        <div class="slider-wrap">
+            <div class="row">
+                <div class="col-md-12">
+                    <div id="d51e5441-8ec5-4219-95ad-d12aae588802" class="slider slider-d51e5441-8ec5-4219-95ad-d12aae588802 sliderSingle" data-moveby="102" style="">
+                        <div class="outer">
+                            <div class="tray">
+                                    <section id="slide1" style="left: -102%;">
+                                        <div class="row slide-container">
+                                            <!-- HIDDEN BIG PIC LINK UNTIL SMALL -->
+                                            <div class="col-sm-8 slider-single-sml-link">
+                                                <div class="row no-gutters">
+                                                        <article class="col-sm-12 feature" slug="gaanow-rewind-2020-gaa-football-all-ireland-final-dublin-v-mayo">
+        <a href="/gaa-now/gaanow-rewind-2020-gaa-football-all-ireland-final-dublin-v-mayo/" target="">
+            <figure><picture>
+<source data-srcset="" media="(min-width: 1200px)">
+<source data-srcset="" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_750,h_422,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_540,h_304,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" alt="GAANOW Rewind - 2020 GAA Football All-Ireland Final: Dublin v Mayo">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>GAANOW Rewind - 2020 GAA Football All-Ireland Final: Dublin v Mayo</h1>
+            </header>
+        </a>
+    </article>
+
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <div class="row">
+                                                    <div class="col-sm-4  slider-single-desk-link">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/gaanow-rewind-2020-gaa-football-all-ireland-final-dublin-v-mayo">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" alt="GAANOW Rewind - 2020 GAA Football All-Ireland Final: Dublin v Mayo">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>GAANOW Rewind - 2020 GAA Football All-Ireland Final: Dublin v Mayo</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/gaanow-2020-gaa-hurling-all-ireland-final-limerick-v-waterford">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/kw3zwzomjiseelseziqm.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/kw3zwzomjiseelseziqm.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/kw3zwzomjiseelseziqm.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/kw3zwzomjiseelseziqm.jpg" alt="GAANOW 2020 GAA Hurling All-Ireland Final: Limerick v Waterford">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title hurling">Hurling</span>
+                <h1>GAANOW 2020 GAA Hurling All-Ireland Final: Limerick v Waterford</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/gaanow-club-championship-football-round-up-14-16-august">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/vk9fwgfhatm2swi9onee.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/vk9fwgfhatm2swi9onee.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/vk9fwgfhatm2swi9onee.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/vk9fwgfhatm2swi9onee.jpg" alt="GAANOW Club Championship Football Round-Up: 14-16 August">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>GAANOW Club Championship Football Round-Up: 14-16 August</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 hidden-xs">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/gaanow-club-championship-hurling-round-up-16-august">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/cysm2jmlm1l7feeydoiv.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/cysm2jmlm1l7feeydoiv.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/cysm2jmlm1l7feeydoiv.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/cysm2jmlm1l7feeydoiv.jpg" alt="GAANOW Club Championship Hurling Round-Up: 16 August">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title hurling">Hurling</span>
+                <h1>GAANOW Club Championship Hurling Round-Up: 16 August</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 slider-single-sml-link">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/gaanow-club-championship-hurling-st-annes-v-rathnure">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/ocvcgbffawigafgcqpjh.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/ocvcgbffawigafgcqpjh.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/ocvcgbffawigafgcqpjh.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/ocvcgbffawigafgcqpjh.jpg" alt="GAANOW: Club Championship Hurling: St Annes v Rathnure">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title hurling">Hurling</span>
+                <h1>GAANOW: Club Championship Hurling: St Annes v Rathnure</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 visible-xs">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/tyrone-cup-lift">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/znkovdxwihxk0gwitnae.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/znkovdxwihxk0gwitnae.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/znkovdxwihxk0gwitnae.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/znkovdxwihxk0gwitnae.jpg" alt="Tyrone Cup Lift">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>Tyrone Cup Lift</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
+                                                                    <section id="slide2" style="left: 0%;" class="current">
+                                        <div class="row slide-container">
+                                            <!-- HIDDEN BIG PIC LINK UNTIL SMALL -->
+                                            <div class="col-sm-8 slider-single-sml-link">
+                                                <div class="row no-gutters">
+                                                        <article class="col-sm-12 feature" slug="tyrone-cup-lift">
+        <a href="/gaa-now/tyrone-cup-lift/" target="">
+            <figure><picture>
+<source data-srcset="" media="(min-width: 1200px)">
+<source data-srcset="" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_750,h_422,c_fill,g_auto,q_auto/znkovdxwihxk0gwitnae.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_540,h_304,c_fill,g_auto,q_auto/znkovdxwihxk0gwitnae.jpg" alt="Tyrone Cup Lift">
+</picture>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>Tyrone Cup Lift</h1>
+            </header>
+        </a>
+    </article>
+
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <div class="row">
+                                                    <div class="col-sm-4 ">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/tyrone-cup-lift">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/znkovdxwihxk0gwitnae.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/znkovdxwihxk0gwitnae.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/znkovdxwihxk0gwitnae.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/znkovdxwihxk0gwitnae.jpg" alt="Tyrone Cup Lift">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>Tyrone Cup Lift</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/mayo-v-tyrone-full-time-x2374">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/t2ua3faxm66jxlbntcel.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/t2ua3faxm66jxlbntcel.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/t2ua3faxm66jxlbntcel.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/t2ua3faxm66jxlbntcel.jpg" alt="Mayo v Tyrone Full-Time">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>Mayo v Tyrone Full-Time</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/darren-mccurry-goal-x7646">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/gq9z6jp7va14ws5ncdjz.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/gq9z6jp7va14ws5ncdjz.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/gq9z6jp7va14ws5ncdjz.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/gq9z6jp7va14ws5ncdjz.jpg" alt="Darren McCurry goal">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>Darren McCurry goal</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 slider-single-sml-link">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/cathal-mcshane-goal-x8404">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/wh9ea6bdi4ac960qfsmz.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/wh9ea6bdi4ac960qfsmz.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/wh9ea6bdi4ac960qfsmz.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/wh9ea6bdi4ac960qfsmz.jpg" alt="Cathal McShane goal">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>Cathal McShane goal</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 slider-single-sml-link">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/mayo-v-tyrone-half-time-x2918">
+            <figure><picture>
+<source data-srcset="/Images/default.png" media="(min-width: 1200px)">
+<source data-srcset="/Images/default.png" media="(min-width: 992px)">
+<source data-srcset="/Images/default.png" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="/Images/default.png" alt="Mayo v Tyrone Half-Time">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>Mayo v Tyrone Half-Time</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4  visible-xs">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/gaanow-rewind-2020-gaa-football-all-ireland-final-dublin-v-mayo">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" alt="GAANOW Rewind - 2020 GAA Football All-Ireland Final: Dublin v Mayo">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>GAANOW Rewind - 2020 GAA Football All-Ireland Final: Dublin v Mayo</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
+                                                                    <section id="slide3" style="left: 102%;">
+                                        <div class="row slide-container">
+                                            <!-- HIDDEN BIG PIC LINK UNTIL SMALL -->
+                                            <div class="col-sm-8 slider-single-sml-link">
+                                                <div class="row no-gutters">
+                                                        <article class="col-sm-12 feature" slug="darren-mccurry-goal-x7646">
+        <a href="/gaa-now/darren-mccurry-goal-x7646/" target="">
+            <figure><picture>
+<source data-srcset="" media="(min-width: 1200px)">
+<source data-srcset="" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_750,h_422,c_fill,g_auto,q_auto/gq9z6jp7va14ws5ncdjz.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_540,h_304,c_fill,g_auto,q_auto/gq9z6jp7va14ws5ncdjz.jpg" alt="Darren McCurry goal">
+</picture>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>Darren McCurry goal</h1>
+            </header>
+        </a>
+    </article>
+
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <div class="row">
+                                                    <div class="col-sm-4  slider-single-desk-link">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/darren-mccurry-goal-x7646">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/gq9z6jp7va14ws5ncdjz.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/gq9z6jp7va14ws5ncdjz.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/gq9z6jp7va14ws5ncdjz.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/gq9z6jp7va14ws5ncdjz.jpg" alt="Darren McCurry goal">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>Darren McCurry goal</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/cathal-mcshane-goal-x8404">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/wh9ea6bdi4ac960qfsmz.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/wh9ea6bdi4ac960qfsmz.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/wh9ea6bdi4ac960qfsmz.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/wh9ea6bdi4ac960qfsmz.jpg" alt="Cathal McShane goal">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>Cathal McShane goal</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/mayo-v-tyrone-half-time-x2918">
+            <figure><picture>
+<source data-srcset="/Images/default.png" media="(min-width: 1200px)">
+<source data-srcset="/Images/default.png" media="(min-width: 992px)">
+<source data-srcset="/Images/default.png" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="/Images/default.png" alt="Mayo v Tyrone Half-Time">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>Mayo v Tyrone Half-Time</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/gaanow-rewind-2020-gaa-football-all-ireland-final-dublin-v-mayo">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/f5lwjjowckjqm9fk2dvu.jpg" alt="GAANOW Rewind - 2020 GAA Football All-Ireland Final: Dublin v Mayo">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>GAANOW Rewind - 2020 GAA Football All-Ireland Final: Dublin v Mayo</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4 slider-single-sml-link">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/gaanow-2020-gaa-hurling-all-ireland-final-limerick-v-waterford">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/kw3zwzomjiseelseziqm.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/kw3zwzomjiseelseziqm.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/kw3zwzomjiseelseziqm.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/kw3zwzomjiseelseziqm.jpg" alt="GAANOW 2020 GAA Hurling All-Ireland Final: Limerick v Waterford">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title hurling">Hurling</span>
+                <h1>GAANOW 2020 GAA Hurling All-Ireland Final: Limerick v Waterford</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                    <div class="col-sm-4  visible-xs">
+                                                        <article class="nr-small">
+                                                                    <a href="/gaa-now/gaanow-club-championship-football-round-up-14-16-august">
+            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/vk9fwgfhatm2swi9onee.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/vk9fwgfhatm2swi9onee.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/vk9fwgfhatm2swi9onee.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/vk9fwgfhatm2swi9onee.jpg" alt="GAANOW Club Championship Football Round-Up: 14-16 August">
+</picture>
+<div class="icon-video-circle">
+                    <div class="icon-video-item">
+                        <div class="icon-video-triangle"></div>
+                    </div>
+                </div>
+</figure>
+
+            <header>
+                <span class="sub-title football">Football</span>
+                <h1>GAANOW Club Championship Football Round-Up: 14-16 August</h1>
+            </header>
+        </a>
+
+                                                        </article>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
+                            </div>
+                        </div>
+                            <div class="d51e5441-8ec5-4219-95ad-d12aae588802 mask left">
+                                <a class="arrow left">
+                                    <span class="fa fa-angle-double-left"></span>
+                                </a>
+                            </div>
+                            <div class="d51e5441-8ec5-4219-95ad-d12aae588802 mask right">
+                                <a class="arrow right"><span class="fa fa-angle-double-right"></span></a>
+                            </div>
+                    </div>
+                    <nav class="slider-nav">
+                        <ul>
+                                <li><a href="#slide1">Slide 3</a></li>
+                                <li class="current"><a href="#slide2">Slide 1</a></li>
+                                <li><a href="#slide3">Slide 2</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="video-player-container" class="embed-responsive embed-responsive-16by9" style="display:none">
+
+    </div>
+
+
+
+
+
+
+
+
+<article class="dynamic-banner text-center">
+    <div class="container-fluid">
+        <div class="row-bleed">
+                <div class="dynamic-banner__title text-center">
+                    B100DY SUNDAY
+                </div>
+                            <p class="dynamic-banner__subtitle text-center">
+                    The GAA Remembers
+                </p>
+
+                <a href="/bloodysunday" class="dynamic-banner__cta">
+                    Visit Site
+                </a>
+        </div>
+    </div>
+</article>
+
+
+
+
+
+    <div class="container-fluid template-row bg-turquoise ">
+        <div class="row-bleed" style="">
+            
+
+    <div class="row news-feature-plus-list">
+        <div class="col-sm-6 col-md-5" data-article="1">
+                <h1 class="row-title">Features &amp; Analysis</h1>
+            <article>
+                <a href="/news/gge-european-youth-championships-a-heart-warming-success/">
+                    <figure><picture>
+<source data-srcset="" media="(min-width: 1200px)">
+<source data-srcset="" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_750,h_422,c_fill,g_auto,q_auto/yhvhhyoejfmqukgil5cj.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_540,h_304,c_fill,g_auto,q_auto/yhvhhyoejfmqukgil5cj.jpg" alt="GGE European Youth Championships a heart-warming success">
+</picture>
+</figure>
+
+                    <header>
+                        <h2>GGE European Youth Championships a heart-warming success</h2>
+                        <div class="article-summary">
+                            <p>By John Harrington
+The old Irish proverb, Mol an óige agus tiocfaid...
+                        </div>
+                    </header>
+                </a>
+            </article>
+        </div>
+        <div class="col-sm-6 col-md-7">
+            <section data-article="0" class="collapse" id="collapseExample">
+                
+                    <article>
+                        <a href="/football/news/football-obsessive-shane-walsh-still-hungry-for-knowledge/" class="">
+                            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/wtkdvtqmgcixtxpgykul.jpg" alt="Football obsessive Shane Walsh still hungry for knowledge">
+</picture>
+</figure>
+
+                            <header>
+                                <h2>Football obsessive Shane Walsh still hungry for knowledge</h2>
+                                <div class="article-summary">
+                                    <p>By John Harrington
+Shane Walsh will play his tenth season of champi...
+                                </div>
+                            </header>
+                        </a>
+                    </article>
+                    <article>
+                        <a href="/hurling/news/cian-lynch-reminded-of-feile-glory-days-on-county-final-weekend/" class="">
+                            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/s5gjnaqgbi6vvrvh3nnh.jpg" alt="Cian Lynch reminded of Féile glory days on County Final weekend">
+</picture>
+</figure>
+
+                            <header>
+                                <h2>Cian Lynch reminded of F&#233;ile glory days on County Final weekend</h2>
+                                <div class="article-summary">
+                                    <p>By John Harrington
+Competition sponsors, John West, couldn’t have a...
+                                </div>
+                            </header>
+                        </a>
+                    </article>
+                    <article>
+                        <a href="/football/news/ballinamore-sean-o-heslins-hope-to-end-long-famine/" class="">
+                            <figure><picture>
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/kpwbs7xwivuposxlki96.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_440,h_248,c_fill,g_auto,q_auto/kpwbs7xwivuposxlki96.jpg" media="(min-width: 992px)">
+<source data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/kpwbs7xwivuposxlki96.jpg" media="(min-width: 768px)">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload img-responsive" data-srcset="https://www.gaa.ie/api/images/image/private/w_320,h_180,c_fill,g_auto,q_auto/kpwbs7xwivuposxlki96.jpg" alt="Ballinamore Sean O&apos;Heslins hope to end long famine">
+</picture>
+</figure>
+
+                            <header>
+                                <h2>Ballinamore Sean O&#39;Heslins hope to end long famine</h2>
+                                <div class="article-summary">
+                                    <p>By John Harrington
+When it comes to the Leitrim Senior Football clu...
+                                </div>
+                            </header>
+                        </a>
+                    </article>
+            </section>
+            <button class="btn see-more btn-primary collapsed" type="button" data-show="Show More" data-hide="Show Less" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"></button>
+        </div>
+    </div>
+
+        </div>
+    </div>
+
+
+
+
+
+    <div class="container-fluid template-row ">
+        <div class="row-bleed" style="">
+            
+
+            <div class="text-center">
+                    <a href="/belong/" target="_blank">
+                        <figure>
+                            <img src="https://www.gaa.ie/api/images/image/private/f_jpg/f8htf8y5orkagmeeskrq.jpg" alt="WWAB Banner" onerror="this.onerror=null;this.src='/images/default.png';" class="img-responsive img-responsive-centered" />
+                        </figure>
+                    </a>
+            </div>
+
+        </div>
+    </div>
+
+
+
+<div class="container-fluid template-row bg-crowd hidden-xs hidden-sm">
+    <div class="row-bleed">
+            <div class="row">
+                <h1 class="row-title text-center">Keep in Touch</h1>
+            </div>
+        <div class="row row-flex">
+            <div class="col-md-6">
+                
+
+<div class="social-widget-tw">
+        <h1 class="module-header-twitter h4">@officialgaa</h1>
+    <div data-lazy-widget="twitter-widget" data-lazy-widget-show-on=">=sm" class="text-center box-padded">
+        <a class="twitter-timeline" data-height="500" data-dnt="true" href="https://twitter.com/officialgaa">Tweets</a>
+    </div>
+    <div id="twitter-widget">
+        <!--<script type="application/javascript">!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>-->
+    </div>
+</div>
+            </div>
+            <div class="col-md-6">
+                
+
+<div class="social-widget-fb">
+        <h1 class="module-header-facebook h4">Official GAA</h1>
+    <div data-lazy-widget="facebook-widget" data-lazy-widget-show-on=">=sm" class="text-center box-padded">
+        <div id="fb-root"></div>
+        <div class="fb-page" data-href="https://www.facebook.com/officialgaa" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/officialgaa"><a href="https://www.facebook.com/officialgaa">Official GAA</a></blockquote></div></div>
+    </div>
+    <div id="facebook-widget">
+        
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="container-fluid bg-white">
+    <div class="row-bleed">
+        <div class="row">
+            <div class="col-md-6">
+                    <sponsors-carousel title="Official Sponsors of the GAA Football All-Ireland Championship"
+                                       :list="[{&quot;imageUrl&quot;:&quot;https://www.gaa.ie/api/images/image/private/w_150,h_100,c_limit/tolw58jhysgsttqjmpbs&quot;,&quot;linkUrl&quot;:&quot;&quot;,&quot;name&quot;:&quot;Logo Eir&quot;},{&quot;imageUrl&quot;:&quot;https://www.gaa.ie/api/images/image/private/w_150,h_100,c_limit/myspueqruwkg8n9jhzrp&quot;,&quot;linkUrl&quot;:&quot;https://aib.ie/&quot;,&quot;name&quot;:&quot;Allied Irish Bank&quot;},{&quot;imageUrl&quot;:&quot;https://www.gaa.ie/api/images/image/private/w_150,h_100,c_limit/i1astd3wxvdcm2gswnjn&quot;,&quot;linkUrl&quot;:&quot;&quot;,&quot;name&quot;:&quot;supervalu&quot;}]"
+                                       id="sponsorsTier0"
+                                       tier-class="sponsorsTierSmall" />
+            </div>
+            <div class="col-md-6">
+                    <sponsors-carousel title="Official Sponsors of the GAA Hurling All-Ireland Championship"
+                                       :list="[{&quot;imageUrl&quot;:&quot;https://www.gaa.ie/api/images/image/private/w_150,h_100,c_limit/ruvhvi94o8xazzggnc2v&quot;,&quot;linkUrl&quot;:&quot;https://www.bordgaisenergy.ie/&quot;,&quot;name&quot;:&quot;Bord G&#225;is Energy Logo&quot;},{&quot;imageUrl&quot;:&quot;https://www.gaa.ie/api/images/image/private/w_150,h_100,c_limit/rqwlrizoxorx9hxqkjnq&quot;,&quot;linkUrl&quot;:&quot;http://www.centra.ie/&quot;,&quot;name&quot;:&quot;Centra&quot;},{&quot;imageUrl&quot;:&quot;https://www.gaa.ie/api/images/image/private/w_150,h_100,c_limit/vqot6x5qvv2q4j9xzrxm&quot;,&quot;linkUrl&quot;:&quot;&quot;,&quot;name&quot;:&quot;LWI logo&quot;}]"
+                                       id="sponsorsTier1"
+                                       tier-class="sponsorsTierSmall" />
+            </div>
+        </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <sponsors-carousel title="Live Competitions"
+                                       :list="[{&quot;imageUrl&quot;:&quot;https://www.gaa.ie/api/images/image/private/w_150,h_100,c_limit/yaobc37ycxkxuvtxu8eu&quot;,&quot;linkUrl&quot;:&quot;https://aib.ie/gaa&quot;,&quot;name&quot;:&quot;AIB Club&quot;}]"
+                                       id="sponsorsTier2"
+                                       tier-class="sponsorsTier" />
+                </div>
+            </div>
+    </div>
+</div>
+                
+<div class="container-fluid site-footer">
+    <div class="row-bleed">
+        <footer>
+                <ul class="col-sm-3 no-bullet">
+
+
+                    <li><strong><a href="/" target="">GAA.ie</a></strong></li>
+                        <li><a href="/football/" target="">Football</a></li>
+                        <li><a href="/hurling/" target="">Hurling</a></li>
+                </ul>
+                <ul class="col-sm-3 no-bullet">
+
+
+                    <li><strong><a href="/the-gaa/" target="">The GAA</a></strong></li>
+                        <li><a href="/the-gaa/administration/" target="">Administration</a></li>
+                        <li><a href="/the-gaa/provinces-counties-clubs/" target="">Provinces, Counties &amp; Clubs</a></li>
+                        <li><a href="/the-gaa/rules-regulations/" target="">Rules &amp; Regulations</a></li>
+                </ul>
+                <ul class="col-sm-3 no-bullet">
+
+
+                    <li><strong><a href="/my-gaa/" target="">My GAA</a></strong></li>
+                        <li><a href="/my-gaa/getting-involved/" target="">Getting Involved</a></li>
+                        <li><a href="/my-gaa/players/" target="">Players</a></li>
+                        <li><a href="/my-gaa/coaches/" target="">Coaches</a></li>
+                        <li><a href="/my-gaa/administrators/" target="">Administrators</a></li>
+                        <li><a href="/my-gaa/match-officials/" target="">Match Officials</a></li>
+                        <li><a href="/my-gaa/community-and-health/" target="">Community &amp; Health</a></li>
+                        <li><a href="/my-gaa/world-gaa/" target="">World GAA</a></li>
+                </ul>
+                <ul class="col-sm-3 no-bullet">
+
+
+                    <li><strong><a href="/tickets/" target="">Be There</a></strong></li>
+                        <li><a href="/tickets/where-to-buy/" target="">Buy tickets</a></li>
+                        <li><a href="/tickets/gaa-season-ticket/" target="">Season Ticket</a></li>
+                        <li><a href="http://www.crokepark.ie/match-day/premium" target="">Premium Tickets</a></li>
+                </ul>
+                <ul class="col-sm-3 no-bullet">
+
+
+                    <li><strong><a href="http://www.crokepark.ie" target="_blank">Croke Park</a></strong></li>
+                        <li><a href="https://crokepark.ie/gaa-museum-tours" target="">GAA Museum</a></li>
+                        <li><a href="http://www.crokepark.ie/visitor-attractions/stadium-tours" target="">Stadium Tour</a></li>
+                        <li><a href="https://crokepark.ie/gaa-museum-tours/ericsson-skyline" target="">Ericsson Skyline</a></li>
+                        <li><a href="http://www.crokepark.ie/meetings-events" target="">Meetings and Events</a></li>
+                </ul>
+                <ul class="col-sm-3 no-bullet">
+
+
+                    <li><strong><a href="/" target="">Related Organisations</a></strong></li>
+                        <li><a href="http://ladiesgaelic.ie/" target="">LGFA</a></li>
+                        <li><a href="http://www.camogie.ie/" target="">Camogie</a></li>
+                        <li><a href="http://www.gaahandball.ie/" target="">Handball</a></li>
+                        <li><a href="http://www.gaarounders.ie/" target="">Rounders</a></li>
+                </ul>
+                <ul class="col-sm-3 no-bullet">
+
+
+                    <li><strong><a href="/" target="">Quick Links</a></strong></li>
+                        <li><a href="/the-gaa/rules-regulations/transfers-and-sanctions-information" target="">Transfers and Sanctions</a></li>
+                        <li><a href="/the-gaa/rules-regulations/gaa-discipline" target="">Disciplinary Info</a></li>
+                        <li><a href="/the-gaa/child-safeguarding-and-protection/vetting" target="">Vetting</a></li>
+                        <li><a href="https://www.gaa.ie/my-gaa/administrators/club-website-solution" target="">Club Website Solution</a></li>
+                        <li><a href="/privacy-statement/" target="">Privacy Policy</a></li>
+                </ul>
+                <ul class="col-sm-3 no-bullet">
+
+
+                    <li><strong><a href="/downloads/" target="">Downloads</a></strong></li>
+                </ul>
+        </footer>
+    </div>
+</div>
+<div class="container-fluid site-footer">
+    <div class="row-bleed powered">
+        <a href="https://www.deltatre.com/" target="_blank"><span>Powered by</span> <img src="/images/footer/deltatre.png" alt="Deltatre" /></a>
+    </div>
+</div>
+
+
+            </base-template>
+
+        </div>
+
+        
+
+        <script src="/compiledassets/js/newsreader.min.js?v=20211021050355&_t=6261c82dc36e464e9baceede4cfe4b8b" type="application/javascript"></script>
+
+    </div>
+
+    
+    <script type="text/javascript">window.gaa_web={"config":{"cookies":{"GA_TRACKING_ID":"UA-11918670-1","COOKIE_CONSENT_API_KEY":"45eb0c085e7da6810fb96edceaf0babc6571477e","GTAG_UA_KEY_1":"_gat_gtag_UA_65758692_27","GTAG_UA_KEY_2":"_gat_gtag_UA_10410142_1","FACEBOOK_PIXEL_CODE_ID":"532150710329020","FACEBOOK_JSSDK":"149972321829490"},"diva":{"divaPlayerUrl":"/divahtml5-4.5.2/divaplayer.html","divaSettingsFile":"/divahtml5-4.5.2/settings.xml","divaSettingsFileLive":"/divahtml5-4.5.2/settings-live.xml","divaTokenizationUrl":"//gaatokwebwe.azurewebsites.net/api/tokenizer"},"client_apis":{"FIXTURES_SEASONS":"/fixtures-results/library/_seasons","CENTENARY_HTML":"/centenary/partials/{seoTitle}"},"cloudinary":{"PHOTO_MODES":"{\"Hero\":[{\"(min-width: 1200px)\":{\"Name\":\"HERO\",\"Description\":\"16:9 - Hero\"}},{\"(min-width: 992px)\":{\"Name\":\"HERO\",\"Description\":\"16:9 - Hero\"}},{\"(min-width: 768px)\":{\"Name\":\"FEATURES\",\"Description\":\"16:9 - Feature\"}},{\"(max-width: 767px)\":{\"Name\":\"MobileFeature\",\"Description\":\"16:9 - Mobile Feature\"}}],\"Feature\":[{\"(min-width: 1200px)\":{\"Name\":\"FEATURES\",\"Description\":\"16:9 - Feature\"}},{\"(min-width: 992px)\":{\"Name\":\"FEATURES\",\"Description\":\"16:9 - Feature\"}},{\"(min-width: 768px)\":{\"Name\":\"MobileFeature\",\"Description\":\"16:9 - Mobile Feature\"}},{\"(max-width: 767px)\":{\"Name\":\"SmallFeature\",\"Description\":\"16:9 - Small Feature\"}}],\"Thumbnail\":[{\"(min-width: 1200px)\":{\"Name\":\"StandardThumbnail\",\"Description\":\"16:9 - Standard Thumbnail\"}},{\"(min-width: 992px)\":{\"Name\":\"StandardThumbnail\",\"Description\":\"16:9 - Standard Thumbnail\"}},{\"(min-width: 768px)\":{\"Name\":\"SmallThumbnail\",\"Description\":\"16:9 - Small Thumbnail\"}},{\"(max-width: 767px)\":{\"Name\":\"SmallThumbnail\",\"Description\":\"16:9 - Small Thumbnail\"}}]}","PHOTO_MODE_SIZE":"{\"0\":\"Hero\",\"1\":\"Feature\",\"2\":\"Thumbnail\"}"}}};window.__env={"divaPlayerUrl":"/divahtml5-4.5.2/divaplayer.html","divaSettingsFile":"/divahtml5-4.5.2/settings.xml","divaSettingsFileLive":"/divahtml5-4.5.2/settings-live.xml","divaTokenizationUrl":"//gaatokwebwe.azurewebsites.net/api/tokenizer"}</script>
+
+    <!-- Facebook Pixel Code -->
+<noscript>
+    <img height="1" width="1" style="display:none"
+         src="https://www.facebook.com/tr?id=532150710329020&ev=PageView&noscript=1" />
+</noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Cookies Consent Notice -->
+<script src="https://cc.cdn.civiccomputing.com/8/cookieControl-8.x.min.js" type="application/javascript"></script>
+
+    
+    
+
+
+
+<script type="application/javascript" src="/AppsDist/js/chunk-vendors-564521.js"></script>
+<script type="application/javascript" src="/AppsDist/js/app-564521.js"></script>
+    
+</body>
+</html>
