@@ -112,3 +112,8 @@ is a positive integer that is equal to the sum of its proper factors.
 
 18_palindrome.py:<br>
 A program that takes a string from a user and returns if it is a palindrome.  The program exits with an empty string.
+
+19_webPage_counter.py:<br>
+A program that takes a web page and counts the occurrences of left angle brackets (<), right angle brackets (>), newlines, the lowercase
+letter e, the string <!-- and the string --> and prints out the results to a file results.txt.  The program will check if a results file exists
+and if it does it will not print out the results.  For this program the web page is set to: gaa_index_source.txt.
