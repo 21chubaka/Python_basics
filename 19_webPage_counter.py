@@ -17,9 +17,10 @@ Else
         If not, create a results file and write the results to it
     Else, inform user results file already exists
 '''
-
+# Import lib
 import os
 
+# File txt check and read
 filename = 'gaa_index_source.txt'
 if not os.path.isfile(filename):
     print('File' + filename + 'does not exist.')
@@ -29,6 +30,7 @@ else:
 
     fh1.close()
     #print(data)
+    # Counter variables
     l_brack = data.count('<')
     r_brack = data.count('>')
     newline = data.count('\\n')
@@ -36,6 +38,7 @@ else:
     s_comment = data.count('<!--')
     e_comment = data.count('-->')
 
+    # Check if results.txt exists and print out results
     if not os.path.isfile('results.txt'):
         fhand = open('results.txt', 'w')
 
