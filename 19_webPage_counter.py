@@ -35,3 +35,18 @@ else:
     e = data.count('e')
     s_comment = data.count('<!--')
     e_comment = data.count('-->')
+
+    if not os.path.isfile('results.txt'):
+        fhand = open('results.txt', 'w')
+
+        fhand.write("Num of 'e': " + str(e) + '\n')
+        fhand.write("Num of '\\n': " + str(newline) + '\n')
+        fhand.write("Num of '<': " + str(l_brack) + '\n')
+        fhand.write("Num of '>': " + str(r_brack) + '\n')
+        fhand.write("Num of '<!--': " + str(s_comment) + '\n')
+        fhand.write("Num of '-->': " + str(e_comment) + '\n')
+
+        fhand.close()
+        print('Results of program have been printed out to the file results.txt')
+    else:
+        print('The results file already exists.')
