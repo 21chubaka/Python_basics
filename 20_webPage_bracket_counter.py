@@ -44,3 +44,36 @@ else:
 
     total_left = l_brack + l_para + l_sq_brack + l_sq
     total_right = r_brack + r_para + r_sq_brack + r_sq
+
+print('# of <: ', l_brack)
+print('# of <: ', r_brack)
+if l_brack == r_brack:
+    print('< & > are Balanced')
+else:
+    print('< & > are NOT Balanced')
+
+print('# of (): ', l_para)
+print('# of ): ', r_para)
+if l_para == r_para:
+    print('( & ) are Balanced')
+else:
+    print('( & ) are NOT Balanced')
+
+print('# of [: ', l_sq_brack)
+print('# of ]: ', r_sq_brack)
+if l_sq_brack == r_sq_brack:
+    print('[ & ] are Balanced')
+else:
+    print('[ & ] are NOT Balanced')
+
+print('# of {: ', l_sq)
+print('# of }: ', r_sq)
+if l_sq == r_sq:
+    print('{ & } are Balanced')
+else:
+    print('{ & } are NOT Balanced')
+
+if total_left == total_right:
+    print('Page Brackets are Balanced.')
+else:
+    print('Page Brackets are NOT Balanced')
