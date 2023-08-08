@@ -18,9 +18,10 @@ Else
         If so, print results and inform which brackets are and are not balanced
         Inform user if the total brackets page is balanced or not
 '''
-
+# Import lib
 import os
 
+# Check for file and read in
 filename = 'gaa_index_source.txt'
 if not os.path.isfile(filename):
     print('File' + filename + 'does not exist.')
@@ -30,6 +31,8 @@ else:
 
     fh1.close()
     #print(data)
+
+    # Counter variables
     l_brack = data.count('<')
     r_brack = data.count('>')
 
@@ -45,6 +48,7 @@ else:
     total_left = l_brack + l_para + l_sq_brack + l_sq
     total_right = r_brack + r_para + r_sq_brack + r_sq
 
+# Return counts & if they are balanced
 print('# of <: ', l_brack)
 print('# of <: ', r_brack)
 if l_brack == r_brack:
