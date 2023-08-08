@@ -117,3 +117,6 @@ A program that takes a string from a user and returns if it is a palindrome.  Th
 A program that takes a web page and counts the occurrences of left angle brackets (<), right angle brackets (>), newlines, the lowercase
 letter e, the string <!-- and the string --> and prints out the results to a file results.txt.  The program will check if a results file exists
 and if it does it will not print out the results.  For this program the web page is set to: gaa_index_source.txt.
+
+20_webPage_bracket_counter.py:<br>
+A program that takes a web page and counts the occurrences of brackets and detrimines if the brackets are balanced.  For this program the web page is set to: gaa_index_source.txt.
