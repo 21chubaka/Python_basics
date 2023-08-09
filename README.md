@@ -77,12 +77,15 @@ factorial as it works up to the user number.
 For the next two programs there will be time tracking elements in the program to compare the performances of a Non-Recursive and Recursive Factorial Program.  Results of increasing larger sized inputs recorded in text file and below.<br>
 
 12_nonRecur_fact.py:<br>
+Non-recursive Factorial<br>
 A program that a positive integer is given and iteratively calculates its Factorial.  It also records the time it took to run and returns that time to the user.
 
 13_recur_fact_time.py:<br>
+Recursive Factorial Time Results<br>
 A program that a positive integer is given and recursively calculates its Factorial.  It also records the time it took to run and returns that time to the user.
 
 14_nonRecur_Recur_timeResults.txt:<br>
+Recursive/Non-recursive Factorial Time Results<br>
 Results of time performance between Non-Recursive and Recursive Factorial programs with increasing inputs given.<br>
 
 --Example Results--<br>
@@ -100,23 +103,29 @@ Recursive: RecursionError: maximum recursion depth exceeded in comparison<br>
 Non-Recursive: 0:00:03.954985<br>
 
 15_recur_input_func.py:<br>
+Recursive Function<br>
 A program using a recursive function that takes a single argument as an integer greater or equal to zero and prints
 out that number of terms from a function. A negative number ends the program.
 
 16_common_divis_prog.py:<br>
+Common Divisors<br>
 A program that takes two positive integers from a user and returns all common divisors of the two numbers and the sum of the common divisors.
 
 17_perfect_num.py:<br>
+Perfect Numbers<br>
 A program that takes a positive integer from a user and returns all the perfect numbers up to and including the number given.  A perfect number
 is a positive integer that is equal to the sum of its proper factors.
 
 18_palindrome.py:<br>
+Palindrome<br>
 A program that takes a string from a user and returns if it is a palindrome.  The program exits with an empty string.
 
 19_webPage_counter.py:<br>
+Web Page Bracket Counter<br>
 A program that takes a web page and counts the occurrences of left angle brackets (<), right angle brackets (>), newlines, the lowercase
 letter e, the string <!-- and the string --> and prints out the results to a file results.txt.  The program will check if a results file exists
 and if it does it will not print out the results.  For this program the web page is set to: gaa_index_source.txt.
 
 20_webPage_bracket_counter.py:<br>
+Web Page Bracket Balance<br>
 A program that takes a web page and counts the occurrences of brackets and detrimines if the brackets are balanced.  For this program the web page is set to: gaa_index_source.txt.
