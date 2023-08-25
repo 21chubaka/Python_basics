@@ -10,5 +10,6 @@ us_amt = 212005.03
 # Canadian Dollar to US Dollar rate:
 can_dol_rate = 1.26
 
+# Return Amounts to User
 print('Amount in US Dollars: ', us_amt)
 print('Amount in Canadian Dollars: ', us_amt * can_dol_rate)
