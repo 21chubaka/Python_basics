@@ -35,6 +35,8 @@ tol= float(input('Please provide a positvie tolerance number: '))
 
 # Check if number and tolerance is positive
 if num >= 0 and tol >= 0:
+    # If so, call squareRoot func
     squareRoot(num, tol)
 else:
+    # Else, Inform user of error
     print('Number and Tolerance must be a positive number. Please try again.')
