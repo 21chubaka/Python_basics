@@ -30,10 +30,14 @@ def findDivisors(num1, num2):
 number1 = int(input('Enter a positive integer: '))
 number2 = int(input('Enter another positive integer: '))
 
+# Check if the user inputs are positive integers
 if number1 <= 0 or number2 <= 0:
+    # If not, inform user of error
     print('Numbers should be > 0.')
 else:
+    # Intialize divisors variable with findDivisors func with the user inputs as args
     divisors = findDivisors(number1, number2)
+    # Return to the user
     print('The common divisors of', number1, 'and', number2, 'are:', divisors)
 
     total = 0
@@ -41,4 +45,5 @@ else:
         total += d
     print('Sum of the common divisors are:', total)
 
+# End of program
 print('Finished')
