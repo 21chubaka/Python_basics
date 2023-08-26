@@ -24,11 +24,14 @@ import os
 # Check for file and read in
 filename = 'gaa_index_source.txt'
 if not os.path.isfile(filename):
+    # File does not exist error
     print('File' + filename + 'does not exist.')
 else:
+    # Else, open and read file
     fh1 = open('gaa_index_source.txt', 'r')
     data = fh1.read()
 
+    # Close file
     fh1.close()
     #print(data)
 
