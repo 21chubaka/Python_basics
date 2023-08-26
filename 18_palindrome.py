@@ -53,4 +53,5 @@ while str != '':
 
     str = input('Enter a string (empty string to exit): ')
 
+# End of program
 print('Finished!')
