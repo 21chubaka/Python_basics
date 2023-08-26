@@ -23,11 +23,14 @@ import os
 # File txt check and read
 filename = 'gaa_index_source.txt'
 if not os.path.isfile(filename):
+    # File does not exist error
     print('File' + filename + 'does not exist.')
 else:
+    # Else, open file and read
     fh1 = open('gaa_index_source.txt', 'r')
     data = fh1.read()
 
+    # Close file
     fh1.close()
     #print(data)
     # Counter variables
@@ -40,6 +43,7 @@ else:
 
     # Check if results.txt exists and print out results
     if not os.path.isfile('results.txt'):
+        # Open and write to file
         fhand = open('results.txt', 'w')
 
         fhand.write("Num of 'e': " + str(e) + '\n')
@@ -49,7 +53,9 @@ else:
         fhand.write("Num of '<!--': " + str(s_comment) + '\n')
         fhand.write("Num of '-->': " + str(e_comment) + '\n')
 
+        # Close file
         fhand.close()
         print('Results of program have been printed out to the file results.txt')
     else:
+        # File already exists error
         print('The results file already exists.')
