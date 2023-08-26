@@ -16,10 +16,13 @@ Else, inform user number needs to be positive
 # factorial: parameter is a positvie integer
 def factorial(num):
     ''' Function that return the Factorial of its argument '''
+    # Check if argument if zero or one
     if num == 0 or num == 1:
+        # If so, result is one and return to user
         result = 1
         print('Base case - num:', num, 'result:', result)
     else:
+        # Else, update result using factorial func and return to user
         result = num * factorial(num - 1)
         print('num:', num, 'result:', result)
 
@@ -36,4 +39,5 @@ if user_input >= 0:
     # Return factorial and cases using factorial()
     print('The factorial of', user_input, 'is', factorial(user_input))
 else:
+    # Else, Inform user of error
     print('Number must be a positive integer. Please try again.')
