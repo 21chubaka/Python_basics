@@ -52,11 +52,15 @@ else:
     total_right = r_brack + r_para + r_sq_brack + r_sq
 
 # Return counts & if they are balanced
+# Brackets:
 print('# of <: ', l_brack)
 print('# of <: ', r_brack)
+# Check if left and right brackets are balanced
 if l_brack == r_brack:
+    # If so, return balanced
     print('< & > are Balanced')
 else:
+    # Else, not balanced
     print('< & > are NOT Balanced')
 
 print('# of (): ', l_para)
