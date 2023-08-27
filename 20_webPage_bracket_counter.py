@@ -63,11 +63,15 @@ else:
     # Else, not balanced
     print('< & > are NOT Balanced')
 
+# Parentheses
 print('# of (): ', l_para)
 print('# of ): ', r_para)
+# Check if left and right parentheses are balanced
 if l_para == r_para:
+    # If so, return balanced
     print('( & ) are Balanced')
 else:
+    # Else, not balanced
     print('( & ) are NOT Balanced')
 
 print('# of [: ', l_sq_brack)
