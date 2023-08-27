@@ -85,11 +85,15 @@ else:
     # Else, not balanced
     print('[ & ] are NOT Balanced')
 
+# Curly Brackets:
 print('# of {: ', l_sq)
 print('# of }: ', r_sq)
+# Check if left and right curly brackets are balanced
 if l_sq == r_sq:
+    # If so, return balanced
     print('{ & } are Balanced')
 else:
+    # Else, not balanced
     print('{ & } are NOT Balanced')
 
 if total_left == total_right:
