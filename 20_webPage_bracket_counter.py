@@ -96,7 +96,11 @@ else:
     # Else, not balanced
     print('{ & } are NOT Balanced')
 
+# Page Brackets:
+# Check if the page brackets are balanced
 if total_left == total_right:
+    # If so, return balanced
     print('Page Brackets are Balanced.')
 else:
+    # Else, not balanced
     print('Page Brackets are NOT Balanced')
