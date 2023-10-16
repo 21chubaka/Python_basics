@@ -14,4 +14,6 @@ def getDataFrameSize(df: pd.DataFrame):
 
 # Return the 1st Three Rows
 def selectFirstThreeRows(df: pd.DataFrame):
+    ''' This function takes a dataframe as an argument 
+    and returns the first three rows of the dataframe '''
     return df.head(3)
