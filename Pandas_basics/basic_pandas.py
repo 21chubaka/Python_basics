@@ -11,3 +11,7 @@ def getDataFrameSize(df: pd.DataFrame):
     ''' This function takes a dataframe as an argument 
     and returns the size of the dataframe as a list '''
     return list(df.shape)
+
+# Return the 1st Three Rows
+def selectFirstThreeRows(df: pd.DataFrame):
+    return df.head(3)
