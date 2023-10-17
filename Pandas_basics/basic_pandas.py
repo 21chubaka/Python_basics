@@ -17,3 +17,7 @@ def selectFirstThreeRows(df: pd.DataFrame):
     ''' This function takes a dataframe as an argument 
     and returns the first three rows of the dataframe '''
     return df.head(3)
+
+# Create a new bonus column
+def createBonusCol(df: pd.DataFrame):
+    df['bonus'] = df.salary * 2
