@@ -20,4 +20,9 @@ def selectFirstThreeRows(df: pd.DataFrame):
 
 # Create a new bonus column
 def createBonusCol(df: pd.DataFrame):
+    ''' This function takes a dataframe as an argument, 
+    creates a new column named 'bonus', which is a 
+    doubling of the 'salary' column. It then returns 
+    the updated dataframe '''
     df['bonus'] = df.salary * 2
+    return df
