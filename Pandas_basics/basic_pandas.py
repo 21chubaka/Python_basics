@@ -26,3 +26,12 @@ def createBonusCol(df: pd.DataFrame):
     the updated dataframe '''
     df['bonus'] = df.salary * 2
     return df
+
+# Drop Duplicate Rows from 'email' Column
+def dropDupEmails(df: pd.DataFrame):
+    '''This function takes a dataframe as an argument
+    and drops duplicate rows based on emails 
+    (while keeping the first instance). Then returns
+    the updated dataframe'''
+    df.drop_duplicates(subset='email', keep='first', inplace=True)
+    return df
