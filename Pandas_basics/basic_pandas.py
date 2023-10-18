@@ -35,3 +35,10 @@ def dropDupEmails(df: pd.DataFrame):
     the updated dataframe'''
     df.drop_duplicates(subset='email', keep='first', inplace=True)
     return df
+
+# Drop Rows with Missing Values
+def dropMissingData(df: pd.DataFrame):
+    '''This function takes a dataframe as an argument
+    and drops rows with missing values. Then returns
+    the updated dataframe'''
+    return df.dropna()
