@@ -85,3 +85,7 @@ def pivotDF(df: pd.DataFrame):
     '''This function takes a dataframe as an argument,
     pivots the dataframes, and returns the updated dataframe'''
     return df.pivot(index='month', columns='city', values='temperature')
+
+# Reshape a DataFrame using Melt
+def meltDF(df: pd.DataFrame):
+    return df.melt(id_vars=['products'], var_name='quarter', value_name='sales')
