@@ -58,3 +58,7 @@ def renameCols(df: pd.DataFrame):
     the updated dataframe'''
     return df.rename(columns = {'id':'student_id', 'first':'first_name',
                                 'last':'last_name', 'age':'age_in_years'})
+
+# Change Data Type of 'grade'
+def changeDataType(df: pd.DataFrame):
+    return df.astype({'grade': int})
