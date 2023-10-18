@@ -42,3 +42,8 @@ def dropMissingData(df: pd.DataFrame):
     and drops rows with missing values. Then returns
     the updated dataframe'''
     return df.dropna()
+
+# Double 'salary' Column
+def doubleSalary(df: pd.DataFrame):
+    df['salary'] = df.salary * 2
+    return df
