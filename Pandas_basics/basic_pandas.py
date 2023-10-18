@@ -45,5 +45,8 @@ def dropMissingData(df: pd.DataFrame):
 
 # Double 'salary' Column
 def doubleSalary(df: pd.DataFrame):
+    '''This function takes a dataframe as an argument,
+    doubles the 'salary' column, and then returns
+    the updated dataframe'''
     df['salary'] = df.salary * 2
     return df
