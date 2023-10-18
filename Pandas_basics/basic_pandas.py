@@ -67,5 +67,8 @@ def changeDataType(df: pd.DataFrame):
 
 # Replace Missing Values
 def replaceMissingVals(df: pd.DataFrame):
+    '''This function takes a dataframe as an argument,
+    replaces missing values from 'quantity' with 0, and 
+    returns the updated dataframe'''
     df.quantity.fillna(0, inplace=True)
     return df
