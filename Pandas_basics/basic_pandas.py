@@ -82,4 +82,6 @@ def concatDFs(df1, df2):
 
 # Pivot a DataFrame
 def pivotDF(df: pd.DataFrame):
+    '''This function takes a dataframe as an argument,
+    pivots the dataframes, and returns the updated dataframe'''
     return df.pivot(index='month', columns='city', values='temperature')
