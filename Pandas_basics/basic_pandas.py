@@ -72,3 +72,8 @@ def replaceMissingVals(df: pd.DataFrame):
     returns the updated dataframe'''
     df.quantity.fillna(0, inplace=True)
     return df
+
+# Vertically Concat two DataFrames
+def concatDFs(df1, df2):
+    result = pd.concat([df1, df2])
+    return result
