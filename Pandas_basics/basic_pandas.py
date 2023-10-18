@@ -83,9 +83,11 @@ def concatDFs(df1, df2):
 # Pivot a DataFrame
 def pivotDF(df: pd.DataFrame):
     '''This function takes a dataframe as an argument,
-    pivots the dataframes, and returns the updated dataframe'''
+    pivots the dataframe, and returns the updated dataframe'''
     return df.pivot(index='month', columns='city', values='temperature')
 
 # Reshape a DataFrame using Melt
 def meltDF(df: pd.DataFrame):
+    '''This function takes a dataframe as an argument,
+    reshapes the dataframe using melt, and returns the updated dataframe'''
     return df.melt(id_vars=['products'], var_name='quarter', value_name='sales')
