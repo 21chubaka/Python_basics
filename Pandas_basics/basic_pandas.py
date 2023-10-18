@@ -79,3 +79,7 @@ def concatDFs(df1, df2):
     vertically concats the dataframes, and returns the new dataframe'''
     result = pd.concat([df1, df2])
     return result
+
+# Pivot a DataFrame
+def pivotDF(df: pd.DataFrame):
+    return df.pivot(index='month', columns='city', values='temperature')
