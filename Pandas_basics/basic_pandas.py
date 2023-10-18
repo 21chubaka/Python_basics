@@ -53,5 +53,8 @@ def doubleSalary(df: pd.DataFrame):
 
 # Rename Columns
 def renameCols(df: pd.DataFrame):
+    '''This function takes a dataframe as an argument,
+    renames the columns, and returns
+    the updated dataframe'''
     return df.rename(columns = {'id':'student_id', 'first':'first_name',
                                 'last':'last_name', 'age':'age_in_years'})
