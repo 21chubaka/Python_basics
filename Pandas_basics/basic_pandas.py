@@ -91,3 +91,7 @@ def meltDF(df: pd.DataFrame):
     '''This function takes a dataframe as an argument,
     reshapes the dataframe using melt, and returns the updated dataframe'''
     return df.melt(id_vars=['products'], var_name='quarter', value_name='sales')
+
+# Filter & Sort DataFrame
+def find100KgAnimals(df: pd.DataFrame):
+    return df[df.weight >100].sort_values(['weight'], ascending=False)[['name']]
