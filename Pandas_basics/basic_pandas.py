@@ -64,3 +64,8 @@ def changeDataType(df: pd.DataFrame):
     changes the 'grade' data type to int, and returns 
     the updated dataframe'''
     return df.astype({'grade': int})
+
+# Replace Missing Values
+def replaceMissingVals(df: pd.DataFrame):
+    df.quantity.fillna(0, inplace=True)
+    return df
