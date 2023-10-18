@@ -94,4 +94,7 @@ def meltDF(df: pd.DataFrame):
 
 # Filter & Sort DataFrame
 def find100KgAnimals(df: pd.DataFrame):
+    '''This function takes a dataframe as an argument,
+    filters the dataframe to rows greater than 100, sorts
+    the result in descending order, and returns the filtered dataframe'''
     return df[df.weight >100].sort_values(['weight'], ascending=False)[['name']]
