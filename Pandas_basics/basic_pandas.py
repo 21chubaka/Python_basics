@@ -75,5 +75,7 @@ def replaceMissingVals(df: pd.DataFrame):
 
 # Vertically Concat two DataFrames
 def concatDFs(df1, df2):
+    '''This function takes a two dataframes as arguments,
+    vertically concats the dataframes, and returns the new dataframe'''
     result = pd.concat([df1, df2])
     return result
