@@ -22,3 +22,9 @@ def findCustomers(customers, orders):
     returns a dataframe of the name of customers who have
     never ordered anything'''
     return customers[~customers.id.isin(orders.customerId)][['name']].rename(columns={'name': 'Customers'})
+
+# Return Authors that Viewed their own Articles
+def ownArticleViews(views):
+    return views[views.author_id == views.viewer_id][['author_id']
+            ].drop_duplicates().rename(columns={
+                'author_id': 'id'}).sort_values(by='id')
