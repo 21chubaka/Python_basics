@@ -25,6 +25,9 @@ def findCustomers(customers, orders):
 
 # Return Authors that Viewed their own Articles
 def ownArticleViews(views):
+    '''This function takes a dataframe as an argument and 
+    returns a dataframe of the id of the Authors that viewed
+    their own Article'''
     return views[views.author_id == views.viewer_id][['author_id']
             ].drop_duplicates().rename(columns={
                 'author_id': 'id'}).sort_values(by='id')
