@@ -15,3 +15,7 @@ def findProducts(df):
     AND 'recyclable' equal to 'Y', and returns the 'product_id' field of 
     the filtered dataframe'''
     return df[(df.low_fats == 'Y') & (df.recyclable == 'Y')][['product_id']]
+
+# Return Customers who have not ordered
+def findCustomers(customers, orders):
+    return customers[~customers.id.isin(orders.customerId)][['name']].rename(columns={'name': 'Customers'})
