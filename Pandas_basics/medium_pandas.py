@@ -18,4 +18,7 @@ def findProducts(df):
 
 # Return Customers who have not ordered
 def findCustomers(customers, orders):
+    '''This function takes two dataframes as an argument and 
+    returns a dataframe of the name of customers who have
+    never ordered anything'''
     return customers[~customers.id.isin(orders.customerId)][['name']].rename(columns={'name': 'Customers'})
