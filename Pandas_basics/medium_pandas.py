@@ -40,7 +40,12 @@ def invalidTweets(tweets):
     return tweets[tweets.content.str.len() > 15][['tweet_id']]
 
 # Calculate Bonus Column for Employees
-def calculate_special_bonus(employees: pd.DataFrame) -> pd.DataFrame:
+def calculate_special_bonus(employees):
+    '''This function takes a dataframe as an argument and 
+    returns a dataframe with a new 'bonus' column. The bonus
+    is 100% of the employee's salary if the employee's id is 
+    an odd number AND the employee's name does not start with
+    the letter M'''
     employees['bonus'] = employees.apply(lambda x: x['salary'] if int(x['employee_id']) % 2 != 0 and
                                             not x['name'].startswith('M') else 0, axis=1)
     result = employees[['employee_id', 'bonus']].sort_values(by='employee_id', ascending=True)
