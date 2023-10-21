@@ -34,4 +34,7 @@ def ownArticleViews(views):
 
 # Return Invalid Tweets by length
 def invalidTweets(tweets):
+    '''This function takes a dataframe as an argument and 
+    returns a dataframe of the 'tweet_id's of invalid tweets,
+    which are tweets with a character length greater than 15'''
     return tweets[tweets.content.str.len() > 15][['tweet_id']]
