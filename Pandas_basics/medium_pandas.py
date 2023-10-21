@@ -38,3 +38,10 @@ def invalidTweets(tweets):
     returns a dataframe of the 'tweet_id's of invalid tweets,
     which are tweets with a character length greater than 15'''
     return tweets[tweets.content.str.len() > 15][['tweet_id']]
+
+# Calculate Bonus Column for Employees
+def calculate_special_bonus(employees: pd.DataFrame) -> pd.DataFrame:
+    employees['bonus'] = employees.apply(lambda x: x['salary'] if int(x['employee_id']) % 2 != 0 and
+                                            not x['name'].startswith('M') else 0, axis=1)
+    result = employees[['employee_id', 'bonus']].sort_values(by='employee_id', ascending=True)
+    return result
