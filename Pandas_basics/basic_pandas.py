@@ -37,18 +37,22 @@ def createBonusCol(df: pd.DataFrame):
 
 # Drop Duplicate Rows from 'email' Column
 def dropDupEmails(df: pd.DataFrame):
-    '''This function takes a dataframe as an argument
+    '''
+    This function takes a dataframe as an argument
     and drops duplicate rows based on emails 
     (while keeping the first instance). Then returns
-    the updated dataframe'''
+    the updated dataframe
+    '''
     df.drop_duplicates(subset='email', keep='first', inplace=True)
     return df
 
 # Drop Rows with Missing Values
 def dropMissingData(df: pd.DataFrame):
-    '''This function takes a dataframe as an argument
+    '''
+    This function takes a dataframe as an argument
     and drops rows with missing values. Then returns
-    the updated dataframe'''
+    the updated dataframe
+    '''
     return df.dropna()
 
 # Double 'salary' Column
