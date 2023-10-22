@@ -112,13 +112,17 @@ def pivotDF(df: pd.DataFrame):
 
 # Reshape a DataFrame using Melt
 def meltDF(df: pd.DataFrame):
-    '''This function takes a dataframe as an argument,
-    reshapes the dataframe using melt, and returns the updated dataframe'''
+    '''
+    This function takes a dataframe as an argument,
+    reshapes the dataframe using melt, and returns the updated dataframe
+    '''
     return df.melt(id_vars=['products'], var_name='quarter', value_name='sales')
 
 # Filter & Sort DataFrame
 def find100KgAnimals(df: pd.DataFrame):
-    '''This function takes a dataframe as an argument,
+    '''
+    This function takes a dataframe as an argument,
     filters the dataframe to rows greater than 100, sorts
-    the result in descending order, and returns the filtered dataframe'''
+    the result in descending order, and returns the filtered dataframe
+    '''
     return df[df.weight >100].sort_values(['weight'], ascending=False)[['name']]
