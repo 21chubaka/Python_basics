@@ -53,6 +53,11 @@ def calculate_special_bonus(employees):
 
 # Capitalize Names
 def capNames(users):
+    '''
+    This function takes a dataframe as an argument and 
+    returns a dataframe with the names capitalized and
+    sorted by user id
+    '''
     users['name'] = users.name.str.capitalize()
     result = users.sort_values(by='user_id', ascending=True)
     return result
