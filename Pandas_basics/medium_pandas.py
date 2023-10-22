@@ -50,3 +50,9 @@ def calculate_special_bonus(employees):
                                             not x['name'].startswith('M') else 0, axis=1)
     result = employees[['employee_id', 'bonus']].sort_values(by='employee_id', ascending=True)
     return result
+
+# Capitalize Names
+def capNames(users):
+    users['name'] = users.name.str.capitalize()
+    result = users.sort_values(by='user_id', ascending=True)
+    return result
