@@ -18,16 +18,20 @@ def getDataFrameSize(df: pd.DataFrame):
 
 # Return the 1st Three Rows
 def selectFirstThreeRows(df: pd.DataFrame):
-    ''' This function takes a dataframe as an argument 
-    and returns the first three rows of the dataframe '''
+    '''
+    This function takes a dataframe as an argument 
+    and returns the first three rows of the dataframe
+    '''
     return df.head(3)
 
 # Create a new bonus column
 def createBonusCol(df: pd.DataFrame):
-    ''' This function takes a dataframe as an argument, 
+    '''
+    This function takes a dataframe as an argument, 
     creates a new column named 'bonus', which is a 
     doubling of the 'salary' column. It then returns 
-    the updated dataframe '''
+    the updated dataframe
+    '''
     df['bonus'] = df.salary * 2
     return df
 
