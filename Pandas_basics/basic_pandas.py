@@ -76,16 +76,20 @@ def renameCols(df: pd.DataFrame):
 
 # Change Data Type of 'grade'
 def changeDataType(df: pd.DataFrame):
-    '''This function takes a dataframe as an argument,
+    '''
+    This function takes a dataframe as an argument,
     changes the 'grade' data type to int, and returns 
-    the updated dataframe'''
+    the updated dataframe
+    '''
     return df.astype({'grade': int})
 
 # Replace Missing Values
 def replaceMissingVals(df: pd.DataFrame):
-    '''This function takes a dataframe as an argument,
+    '''
+    This function takes a dataframe as an argument,
     replaces missing values from 'quantity' with 0, and 
-    returns the updated dataframe'''
+    returns the updated dataframe
+    '''
     df.quantity.fillna(0, inplace=True)
     return df
 
