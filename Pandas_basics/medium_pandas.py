@@ -50,7 +50,7 @@ def invalidTweets(tweets):
     return tweets[tweets.content.str.len() > 15][['tweet_id']]
 
 # Calculate Bonus Column for Employees
-def calculate_special_bonus(employees):
+def calcSpecialBonus(employees):
     '''
     This function takes a dataframe as an argument and 
     returns a dataframe with a new 'bonus' column. The bonus
