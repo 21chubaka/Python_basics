@@ -57,16 +57,20 @@ def dropMissingData(df: pd.DataFrame):
 
 # Double 'salary' Column
 def doubleSalary(df: pd.DataFrame):
-    '''This function takes a dataframe as an argument,
+    '''
+    This function takes a dataframe as an argument,
     doubles the 'salary' column, and then returns
-    the updated dataframe'''
+    the updated dataframe
+    '''
     df['salary'] = df.salary * 2
     return df
 
 # Rename Columns
 def renameCols(df: pd.DataFrame):
-    '''This function takes a dataframe as an argument,
-    renames the columns, and returns the updated dataframe'''
+    '''
+    This function takes a dataframe as an argument,
+    renames the columns, and returns the updated dataframe
+    '''
     return df.rename(columns = {'id':'student_id', 'first':'first_name',
                                 'last':'last_name', 'age':'age_in_years'})
 
