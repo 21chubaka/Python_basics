@@ -95,15 +95,19 @@ def replaceMissingVals(df: pd.DataFrame):
 
 # Vertically Concat two DataFrames
 def concatDFs(df1, df2):
-    '''This function takes a two dataframes as arguments,
-    vertically concats the dataframes, and returns the new dataframe'''
+    '''
+    This function takes a two dataframes as arguments,
+    vertically concats the dataframes, and returns the new dataframe
+    '''
     result = pd.concat([df1, df2])
     return result
 
 # Pivot a DataFrame
 def pivotDF(df: pd.DataFrame):
-    '''This function takes a dataframe as an argument,
-    pivots the dataframe, and returns the updated dataframe'''
+    '''
+    This function takes a dataframe as an argument,
+    pivots the dataframe, and returns the updated dataframe
+    '''
     return df.pivot(index='month', columns='city', values='temperature')
 
 # Reshape a DataFrame using Melt
