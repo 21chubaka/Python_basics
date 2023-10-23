@@ -87,3 +87,7 @@ def validEmails(users):
         - The domain is '@leetcode.com'.
     '''
     return users[users.mail.str.match(r'^[a-zA-Z][a-zA-Z\d_.-]*@leetcode\.com')]
+
+# Find Type 1 Diabetes Patients
+def find_patients(patients):
+    return patients[patients.conditions.str.contains(r'\bDIAB1')]
