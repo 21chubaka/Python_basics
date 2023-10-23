@@ -90,4 +90,9 @@ def validEmails(users):
 
 # Find Type 1 Diabetes Patients
 def find_patients(patients):
+    '''
+    This function takes a dataframe as an argument and 
+    returns a dataframe with the rows of patients who have
+    Diabetes in their condition.
+    '''
     return patients[patients.conditions.str.contains(r'\bDIAB1')]
