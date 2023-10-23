@@ -73,3 +73,7 @@ def capNames(users):
     users['name'] = users.name.str.capitalize()
     result = users.sort_values(by='user_id', ascending=True)
     return result
+
+# Find Valid Emails
+def validEmails(users):
+    return users[users.mail.str.match(r'^[a-zA-Z][a-zA-Z\d_.-]*@leetcode\.com')]
