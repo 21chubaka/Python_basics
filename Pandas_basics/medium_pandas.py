@@ -76,4 +76,14 @@ def capNames(users):
 
 # Find Valid Emails
 def validEmails(users):
+    '''
+    This function takes a dataframe as an argument and 
+    returns a dataframe with the rows of users that have
+    valid emails. 
+    A valid e-mail has a prefix name and a domain where:
+        - The prefix name is a string that may contain letters (upper or lower case), 
+            digits, underscore '_', period '.', and/or dash '-'. 
+        - The prefix name must start with a letter.
+        - The domain is '@leetcode.com'.
+    '''
     return users[users.mail.str.match(r'^[a-zA-Z][a-zA-Z\d_.-]*@leetcode\.com')]
