@@ -96,3 +96,9 @@ def find_patients(patients):
     Diabetes in their condition.
     '''
     return patients[patients.conditions.str.contains(r'\bDIAB1')]
+
+# Count Occurences of 'bear' and 'bull'
+def count_occurrences(files):
+    return pd.DataFrame({'word': ['bull', 'bear'], 
+                         'count': [files.content.str.contains(' bull ').sum(), 
+                                   files.content.str.contains(' bear ').sum()]})
