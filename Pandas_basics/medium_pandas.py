@@ -99,6 +99,11 @@ def find_patients(patients):
 
 # Count Occurences of 'bear' and 'bull'
 def count_occurrences(files):
+    '''
+    This function takes a dataframe as an argument and 
+    returns the number of occurences of 'bull' and 'bear'
+    as a dataframe.
+    '''
     return pd.DataFrame({'word': ['bull', 'bear'], 
                          'count': [files.content.str.contains(' bull ').sum(), 
                                    files.content.str.contains(' bear ').sum()]})
