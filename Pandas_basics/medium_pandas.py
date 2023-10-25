@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 # Return Big Countries
 def bigCountries(df):
@@ -110,6 +111,11 @@ def count_occurrences(files):
 
 # Return Nth Highest Salary
 def nth_highest_salary(employee, N):
+    '''
+    This function takes a dataframe and int number as arguments and 
+    returns the Nth highest salary using the int number as Nth. If there
+    is no Nth highest salary is returns null.
+    '''
     df = employee.salary.drop_duplicates()
     if len(df) < N:
         return pd.DataFrame([np.NaN], columns=[f'getNthHighestSalary({N})'])
