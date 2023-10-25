@@ -107,3 +107,12 @@ def count_occurrences(files):
     return pd.DataFrame({'word': ['bull', 'bear'], 
                          'count': [files.content.str.contains(' bull ').sum(), 
                                    files.content.str.contains(' bear ').sum()]})
+
+# Return Nth Highest Salary
+def nth_highest_salary(employee, N):
+    df = employee.salary.drop_duplicates()
+    if len(df) < N:
+        return pd.DataFrame([np.NaN], columns=[f'getNthHighestSalary({N})'])
+    else:
+        result = sorted(df, reverse=True)[N-1]
+        return pd.DataFrame([result], columns=[f'getNthHighestSalary({N})'])
