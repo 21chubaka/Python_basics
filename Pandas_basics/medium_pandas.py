@@ -90,7 +90,7 @@ def validEmails(users):
     return users[users.mail.str.match(r'^[a-zA-Z][a-zA-Z\d_.-]*@leetcode\.com')]
 
 # Find Type 1 Diabetes Patients
-def find_patients(patients):
+def findPatients(patients):
     '''
     This function takes a dataframe as an argument and 
     returns a dataframe with the rows of patients who have
@@ -99,7 +99,7 @@ def find_patients(patients):
     return patients[patients.conditions.str.contains(r'\bDIAB1')]
 
 # Count Occurences of 'bear' and 'bull'
-def count_occurrences(files):
+def countOccurr(files):
     '''
     This function takes a dataframe as an argument and 
     returns the number of occurences of 'bull' and 'bear'
@@ -110,7 +110,7 @@ def count_occurrences(files):
                                    files.content.str.contains(' bear ').sum()]})
 
 # Return Nth Highest Salary
-def nth_highest_salary(employee, N):
+def nthHighestSalary(employee, N):
     '''
     This function takes a dataframe and int number as arguments and 
     returns the Nth highest salary using the int number as Nth. If there
@@ -122,3 +122,12 @@ def nth_highest_salary(employee, N):
     else:
         result = sorted(df, reverse=True)[N-1]
         return pd.DataFrame([result], columns=[f'getNthHighestSalary({N})'])
+    
+# Return 2nd Highest Salary
+def secondHighestSalary(employee):
+    df = employee.salary.drop_duplicates()
+    if len(df) < 2:
+        return pd.DataFrame([np.NaN], columns=['SecondHighestSalary'])
+    else:
+        result = sorted(df, reverse=True)[1]
+        return pd.DataFrame([result], columns=['SecondHighestSalary'])
