@@ -151,6 +151,12 @@ def employeeDepartmentJoin(employee, department):
 
 # Return the Highest Salaried Employees from each Department
 def departmentHighestSalary(employee, department):
+    '''
+    This function takes two dataframes as arguments, joins the
+    two dataframes on the Department ID field, and returns the
+    the Employee's name, department, and salary of the highest
+    paid employee(s) from each department
+    '''
     department.rename(columns={'id': 'departmentId', 'name': 'Department'}, inplace=True)
     employee.rename(columns={'name': 'Employee', 'salary': 'Salary'}, inplace=True)
     df_join = pd.merge(employee, department, on='departmentId', how='inner')
