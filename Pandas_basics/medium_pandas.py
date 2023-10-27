@@ -148,3 +148,15 @@ def employeeDepartmentJoin(employee, department):
     employee.rename(columns={'name': 'Employee', 'salary': 'Salary'}, inplace=True)
     df_join = pd.merge(employee, department, on='departmentId', how='inner')
     return df_join
+
+# Return the Highest Salaried Employees from each Department
+def departmentHighestSalary(employee, department):
+    department.rename(columns={'id': 'departmentId', 'name': 'Department'}, inplace=True)
+    employee.rename(columns={'name': 'Employee', 'salary': 'Salary'}, inplace=True)
+    df_join = pd.merge(employee, department, on='departmentId', how='inner')
+
+    max_sal = df_join.groupby('departmentId')['Salary'].transform('max')
+    df_sal = df_join[df_join['Salary'] == max_sal]
+
+    result = df_sal[['Department', 'Employee', 'Salary']]
+    return result
