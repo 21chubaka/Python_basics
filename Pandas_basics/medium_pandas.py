@@ -136,3 +136,9 @@ def secondHighestSalary(employee):
     else:
         result = sorted(df, reverse=True)[1]
         return pd.DataFrame([result], columns=['SecondHighestSalary'])
+
+# Join two DataFrames by Column
+def department_highest_salary(employee, department):
+    department.rename(columns={'id': 'departmentId'}, inplace=True)
+    df_join = pd.merge(employee, department, on='departmentId', how='inner')
+    return df_join
