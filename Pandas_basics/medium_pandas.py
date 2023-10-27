@@ -138,7 +138,12 @@ def secondHighestSalary(employee):
         return pd.DataFrame([result], columns=['SecondHighestSalary'])
 
 # Join two DataFrames by Column
-def department_highest_salary(employee, department):
+def employeeDepartmentJoin(employee, department):
+    '''
+    This function takes two dataframes as arguments, joins the
+    two dataframes on the Department ID field, and returns the
+    result of the join as a dataframe
+    '''
     department.rename(columns={'id': 'departmentId'}, inplace=True)
     df_join = pd.merge(employee, department, on='departmentId', how='inner')
     return df_join
