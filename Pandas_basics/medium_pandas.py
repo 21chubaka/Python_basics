@@ -144,6 +144,7 @@ def employeeDepartmentJoin(employee, department):
     two dataframes on the Department ID field, and returns the
     result of the join as a dataframe
     '''
-    department.rename(columns={'id': 'departmentId'}, inplace=True)
+    department.rename(columns={'id': 'departmentId', 'name': 'Department'}, inplace=True)
+    employee.rename(columns={'name': 'Employee', 'salary': 'Salary'}, inplace=True)
     df_join = pd.merge(employee, department, on='departmentId', how='inner')
     return df_join
