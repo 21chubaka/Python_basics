@@ -171,3 +171,9 @@ def departmentHighestSalary(employee, department):
     # Config columns for result
     result = df_sal[['Department', 'Employee', 'Salary']]
     return result
+
+# Ranking Scores
+def rankScores(scores):
+    scores['rank'] = scores.score.rank(method='dense', ascending=False)
+    result = scores[['score', 'rank']].sort_values(by='score', ascending=False)
+    return result
