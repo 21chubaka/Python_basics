@@ -182,3 +182,9 @@ def rankScores(scores):
     scores['rank'] = scores.score.rank(method='dense', ascending=False)
     result = scores[['score', 'rank']].sort_values(by='score', ascending=False)
     return result
+
+# Drop Duplicate Emails
+def delete_duplicate_emails(person: pd.DataFrame) -> None:
+    person.sort_values(by='id',ascending=True,inplace=True)
+    person.drop_duplicates(subset='email', keep='first', inplace=True)
+    return person
