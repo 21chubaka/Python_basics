@@ -184,7 +184,13 @@ def rankScores(scores):
     return result
 
 # Drop Duplicate Emails
-def delete_duplicate_emails(person: pd.DataFrame) -> None:
+def deleteDupEmails(person):
+    '''
+    This function takes a dataframe as an argument
+    and drops duplicate rows based on emails 
+    (while keeping the first instance). Then returns
+    the updated dataframe
+    '''
     person.sort_values(by='id',ascending=True,inplace=True)
     person.drop_duplicates(subset='email', keep='first', inplace=True)
     return person
