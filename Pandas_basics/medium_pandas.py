@@ -194,3 +194,7 @@ def deleteDupEmails(person):
     person.sort_values(by='id',ascending=True,inplace=True)
     person.drop_duplicates(subset='email', keep='first', inplace=True)
     return person
+
+# Reshape DataFrame using Melt
+def rearrange_products_table(products):
+    return products.melt(id_vars=['product_id'], var_name='store', value_name='price').dropna()
