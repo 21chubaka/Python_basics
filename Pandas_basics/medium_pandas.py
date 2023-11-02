@@ -205,4 +205,9 @@ def rearrange_products_table(products):
 
 # Return the Number of Customers
 def countRichCustomers(store):
+    '''
+    This function takes a dataframe as an argument 
+    and returns the the number of Customers where amount
+    is greater than 500 as a dataframe
+    '''
     return pd.DataFrame(store[store.amount > 500][['customer_id']].nunique(), columns=['rich_count'])
