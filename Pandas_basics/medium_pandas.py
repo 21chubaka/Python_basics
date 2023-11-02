@@ -202,3 +202,7 @@ def rearrange_products_table(products):
     reshapes the dataframe using melt, and returns the updated dataframe
     '''
     return products.melt(id_vars=['product_id'], var_name='store', value_name='price').dropna()
+
+# Return the Number of Customers
+def countRichCustomers(store):
+    return pd.DataFrame(store[store.amount > 500][['customer_id']].nunique(), columns=['rich_count'])
