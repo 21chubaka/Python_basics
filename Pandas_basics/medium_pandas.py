@@ -207,13 +207,19 @@ def rearrange_products_table(products):
 def countRichCustomers(store):
     '''
     This function takes a dataframe as an argument 
-    and returns the the number of Customers where amount
+    and returns the number of Customers where amount
     is greater than 500 as a dataframe
     '''
     return pd.DataFrame(store[store.amount > 500][['customer_id']].nunique(), columns=['rich_count'])
 
 # Return Immediate Food Delivery Percentage
 def immedFoodDelivPercent(delivery):
+    '''
+    This function takes a dataframe as an argument 
+    and returns the Percentage of Immediate Deliveries.
+    Which is orders that have the same date the customer's
+    preferred delivery date divided by total orders.
+    '''
     immed_count = delivery[delivery.order_date == delivery.customer_pref_delivery_date].shape[0]
     tot_orders = delivery.shape[0]
     immed_percent = (immed_count / tot_orders) * 100
