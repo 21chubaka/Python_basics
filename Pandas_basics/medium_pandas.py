@@ -211,3 +211,11 @@ def countRichCustomers(store):
     is greater than 500 as a dataframe
     '''
     return pd.DataFrame(store[store.amount > 500][['customer_id']].nunique(), columns=['rich_count'])
+
+# Return Immediate Food Delivery Percentage
+def immedFoodDelivPercent(delivery):
+    immed_count = delivery[delivery.order_date == delivery.customer_pref_delivery_date].shape[0]
+    tot_orders = delivery.shape[0]
+    immed_percent = (immed_count / tot_orders) * 100
+    result = pd.DataFrame({'immediate_percentage': [round(immed_percent, 2)]})
+    return result
