@@ -55,6 +55,8 @@ def invalidTweets(tweets):
     This function takes a dataframe as an argument and 
     returns a dataframe of the 'tweet_id's of invalid tweets,
     which are tweets with a character length greater than 15
+    Args: DataFrame
+    Returns: DataFrame
     '''
     return tweets[tweets.content.str.len() > 15][['tweet_id']]
 
@@ -66,6 +68,8 @@ def calcSpecialBonus(employees):
     is 100% of the employee's salary if the employee's id is 
     an odd number AND the employee's name does not start with
     the letter M
+    Args: DataFrame
+    Returns: DataFrame
     '''
     employees['bonus'] = employees.apply(lambda x: x['salary'] if int(x['employee_id']) % 2 != 0 and
                                             not x['name'].startswith('M') else 0, axis=1)
