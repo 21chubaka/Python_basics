@@ -31,6 +31,8 @@ def findCustomers(customers, orders):
     This function takes two dataframes as an argument and 
     returns a dataframe of the name of customers who have
     never ordered anything
+    Args: Two DataFrames
+    Returns: DataFrame
     '''
     return customers[~customers.id.isin(orders.customerId)][['name']].rename(columns={'name': 'Customers'})
 
@@ -40,6 +42,8 @@ def ownArticleViews(views):
     This function takes a dataframe as an argument and 
     returns a dataframe of the id of the Authors that viewed
     their own Article
+    Args: DataFrame
+    Returns: DataFrame
     '''
     return views[views.author_id == views.viewer_id][['author_id']
             ].drop_duplicates().rename(columns={
