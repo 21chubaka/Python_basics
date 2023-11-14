@@ -111,6 +111,8 @@ def findPatients(patients):
     This function takes a dataframe as an argument and 
     returns a dataframe with the rows of patients who have
     Diabetes in their condition.
+    Args: DataFrame
+    Returns: DataFrame
     '''
     return patients[patients.conditions.str.contains(r'\bDIAB1')]
 
@@ -120,6 +122,8 @@ def countOccurr(files):
     This function takes a dataframe as an argument and 
     returns the number of occurences of 'bull' and 'bear'
     as a dataframe.
+    Args: DataFrame
+    Returns: DataFrame
     '''
     return pd.DataFrame({'word': ['bull', 'bear'], 
                          'count': [files.content.str.contains(' bull ').sum(), 
