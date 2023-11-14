@@ -82,6 +82,8 @@ def capNames(users):
     This function takes a dataframe as an argument and 
     returns a dataframe with the names capitalized and
     sorted by user id
+    Args: DataFrame
+    Returns: DataFrame
     '''
     users['name'] = users.name.str.capitalize()
     result = users.sort_values(by='user_id', ascending=True)
@@ -98,6 +100,8 @@ def validEmails(users):
             digits, underscore '_', period '.', and/or dash '-'. 
         - The prefix name must start with a letter.
         - The domain is '@leetcode.com'.
+    Args: DataFrame
+    Returns: DataFrame
     '''
     return users[users.mail.str.match(r'^[a-zA-Z][a-zA-Z\d_.-]*@leetcode\.com')]
 
