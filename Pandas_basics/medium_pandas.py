@@ -135,6 +135,8 @@ def nthHighestSalary(employee, N):
     This function takes a dataframe and int number as arguments and 
     returns the Nth highest salary using the int number as Nth. If there
     is no Nth highest salary it returns null.
+    Args: DataFrame & Integer
+    Returns: DataFrame
     '''
     df = employee.salary.drop_duplicates()
     if len(df) < N:
