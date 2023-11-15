@@ -151,6 +151,8 @@ def secondHighestSalary(employee):
     This function takes a dataframe as an argument and returns 
     the 2nd highest salary as a dataframe. If there is no 2nd 
     highest salary it returns null.
+    Args: DataFrame
+    Returns: DataFrame
     '''
     df = employee.salary.drop_duplicates()
     if len(df) < 2:
