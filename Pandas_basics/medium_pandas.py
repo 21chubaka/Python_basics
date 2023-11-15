@@ -182,6 +182,8 @@ def departmentHighestSalary(employee, department):
     two dataframes on the Department ID field, and returns the
     the Employee's name, department, and salary of the highest
     paid employee(s) from each department
+    Args: Two DataFrames
+    Returns: DataFrame
     '''
     # Rename columns
     department.rename(columns={'id': 'departmentId', 'name': 'Department'}, inplace=True)
