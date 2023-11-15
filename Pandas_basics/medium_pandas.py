@@ -167,6 +167,8 @@ def employeeDepartmentJoin(employee, department):
     This function takes two dataframes as arguments, joins the
     two dataframes on the Department ID field, and returns the
     result of the join as a dataframe
+    Args: Two DataFrames
+    Returns: DataFrame
     '''
     department.rename(columns={'id': 'departmentId', 'name': 'Department'}, inplace=True)
     employee.rename(columns={'name': 'Employee', 'salary': 'Salary'}, inplace=True)
