@@ -206,6 +206,8 @@ def rankScores(scores):
     This function takes a dataframe as an argument, ranks the
     scores and returns a dataframe of the scores and rank ordered
     by the scores from highest to lowest
+    Args: DataFrame
+    Returns: DataFrame
     '''
     scores['rank'] = scores.score.rank(method='dense', ascending=False)
     result = scores[['score', 'rank']].sort_values(by='score', ascending=False)
