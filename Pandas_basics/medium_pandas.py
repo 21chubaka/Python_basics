@@ -220,6 +220,8 @@ def deleteDupEmails(person):
     and drops duplicate rows based on emails 
     (while keeping the first instance). Then returns
     the updated dataframe
+    Args: DataFrame
+    Returns: DataFrame
     '''
     person.sort_values(by='id',ascending=True,inplace=True)
     person.drop_duplicates(subset='email', keep='first', inplace=True)
