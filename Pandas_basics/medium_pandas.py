@@ -255,6 +255,8 @@ def immedFoodDelivPercent(delivery):
     and returns the Percentage of Immediate Deliveries.
     Which is orders that have the same date the customer's
     preferred delivery date divided by total orders.
+    Args: DataFrame
+    Returns: DataFrame
     '''
     immed_count = delivery[delivery.order_date == delivery.customer_pref_delivery_date].shape[0]
     tot_orders = delivery.shape[0]
