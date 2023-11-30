@@ -232,6 +232,8 @@ def rearrange_products_table(products):
     '''
     This function takes a dataframe as an argument,
     reshapes the dataframe using melt, and returns the updated dataframe
+    Args: DataFrame
+    Returns: DataFrame
     '''
     return products.melt(id_vars=['product_id'], var_name='store', value_name='price').dropna()
 
